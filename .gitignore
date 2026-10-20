@@ -1,0 +1,18 @@
+.superpowers/sdd/
+.env
+__pycache__/
+.venv/
+node_modules/
+.next/
+data/qdrant/
+data/raw/
+*.pyc
+data/private/
+.worktrees/
+*.egg-info/
+.cache/
+
+# Catatan kerja internal: tidak untuk repo publik
+HANDOFF.md
+TRANSFER-CONTEXT.md
+docs/superpowers/

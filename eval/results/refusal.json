@@ -1,0 +1,7 @@
+{
+ "threshold": 0.0333,
+ "refusal_accuracy": 0.95,
+ "false_refusal_rate": 0.0125,
+ "n_in_domain": 80,
+ "n_out_of_domain": 20
+}

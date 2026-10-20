@@ -1,0 +1,28 @@
+services:
+  api:
+    build: ./api
+    ports: ["8000:8000"]
+    volumes:
+      # data: tulis-baca — Qdrant mode lokal perlu membuat lock di data/qdrant saat dibuka.
+      - ./data:/app/data
+      - ./.cache/huggingface:/models:ro
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      CORS_ORIGINS: http://localhost:3000
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://localhost:8000/health')\""]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 150s
+  web:
+    build:
+      context: ./web
+      args:
+        NEXT_PUBLIC_API_URL: http://localhost:8000
+    ports: ["3000:3000"]
+    depends_on:
+      api:
+        condition: service_healthy

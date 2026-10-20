@@ -1,0 +1,6 @@
+{
+ "provider": "gemini",
+ "model": "gemini-flash-lite-latest",
+ "prompt_version": "9414822348b2",
+ "threshold": 0.0333
+}

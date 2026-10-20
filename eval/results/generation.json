@@ -1,0 +1,61 @@
+{
+ "summary": {
+  "ask/gold": {
+   "n": 100,
+   "answered": 78,
+   "fallback": 0,
+   "in_domain_refused": 0.025,
+   "out_of_domain_refused": 1.0,
+   "out_of_domain_below_threshold": 0.95,
+   "citation_precision": 1.0,
+   "steps_kept": null,
+   "faithfulness": 0.8272,
+   "answer_relevancy": 0.7306,
+   "n_scored": 69,
+   "n_nan": 0,
+   "n_error": 0,
+   "inheritance_numbers_rate": 0.4138
+  },
+  "ask/heldout": {
+   "n": 40,
+   "answered": 20,
+   "fallback": 0,
+   "in_domain_refused": 0.0,
+   "out_of_domain_refused": 1.0,
+   "out_of_domain_below_threshold": 0.65,
+   "citation_precision": 1.0,
+   "steps_kept": null,
+   "faithfulness": null,
+   "answer_relevancy": null,
+   "n_scored": 0,
+   "n_nan": 0,
+   "n_error": 0,
+   "inheritance_numbers_rate": 0.0
+  },
+  "navigator/gold": {
+   "n": 35,
+   "answered": 34,
+   "fallback": 0,
+   "in_domain_refused": 0.0286,
+   "out_of_domain_refused": null,
+   "out_of_domain_below_threshold": null,
+   "citation_precision": 1.0,
+   "steps_kept": "55/55",
+   "faithfulness": null,
+   "answer_relevancy": null,
+   "n_scored": 0,
+   "n_nan": 0,
+   "n_error": 0,
+   "inheritance_numbers_rate": null
+  }
+ },
+ "meta": {
+  "provider": "gemini",
+  "model": "gemini-flash-lite-latest",
+  "prompt_version": "9414822348b2",
+  "threshold": 0.0333,
+  "judge_model": "gemini-flash-lite-latest",
+  "ragas": "0.4.3",
+  "date": "2026-10-18"
+ }
+}

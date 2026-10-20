@@ -1,0 +1,37 @@
+{
+  "total": 2491,
+  "by_source_type": {
+    "regulation": 569,
+    "procedure": 14,
+    "hadith": 1836,
+    "quran": 72
+  },
+  "by_domain": {
+    "perkawinan": 1148,
+    "perceraian": 695,
+    "kewarisan": 397,
+    "peradilan": 186,
+    "prosedur": 65
+  },
+  "by_doc": {
+    "uu-1-1974": 67,
+    "uu-16-2019": 4,
+    "pp-9-1975": 49,
+    "khi-1991": 212,
+    "uu-7-1989": 108,
+    "uu-3-2006": 43,
+    "uu-50-2009": 35,
+    "perma-1-2016": 51,
+    "prosedur-cerai-gugat": 6,
+    "prosedur-cerai-talak": 6,
+    "prosedur-waris": 2,
+    "hadeethenc-id": 128,
+    "quran": 72,
+    "hadis-bukhari": 369,
+    "hadis-muslim": 112,
+    "hadis-abudawud": 333,
+    "hadis-tirmidhi": 162,
+    "hadis-nasai": 428,
+    "hadis-ibnmajah": 304
+  }
+}

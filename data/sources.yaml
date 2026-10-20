@@ -1,0 +1,638 @@
+sources:
+- doc_id: quran-ara
+  judul: Al-Qur'an (teks Arab, edisi quransimple)
+  singkatan: QS
+  jenis: quran
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransimple.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/quran-api); teks Arab domain publik
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: ef8a46246dca0806eaa1990e82a15d9f1be404ca2a739a550316d3feb4ce6e62
+- doc_id: quran-ind
+  judul: Terjemahan Al-Qur'an Kementerian Agama RI
+  singkatan: QS
+  jenis: quran
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-indonesianislam.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/quran-api); terjemahan Kemenag RI via QuranEnc
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 9b398e7c15062b1df8875240e3900448b6fe84423218350c2cf17b7581f97e81
+- doc_id: hadis-info
+  judul: Metadata dan derajat hadis (hadith-api info)
+  singkatan: HR
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/info.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api)
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 6f5eade2d7774643066213137b19b6076e4386c0c235917c91be2dec6694d134
+- doc_id: hadis-bukhari-ara
+  judul: Sahih al-Bukhari (teks Arab)
+  singkatan: HR. Bukhari
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); matan domain publik
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: f887d8724f75fb6e1d5d29342a173af5346ad9b933173c85e6e3cb570063ea33
+- doc_id: hadis-bukhari-ind
+  judul: Sahih al-Bukhari (terjemahan Indonesia)
+  singkatan: HR. Bukhari
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-bukhari.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); asal terjemahan dicatat di sources-verification.md
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 2222688acca11b122916e302c4a409cfd22b9d4163b0641ac004c88fbc3c2661
+  catatan: 'Tidak dipakai di korpus publik: metadata edisi terjemahan (author "Unknown", source "") tidak
+    bisa diverifikasi lisensi/provenance-nya (spec Sec 4.1, docs/sources-verification.md "Hadith translation
+    provenance"). Chunk hadis publik hanya memakai matan Arab dari edisi -ara.'
+- doc_id: hadis-muslim-ara
+  judul: Sahih Muslim (teks Arab)
+  singkatan: HR. Muslim
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); matan domain publik
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 2cb296f3455ff8a3da9f6a0ca3de75da675788b2fb446ad316df297838e48217
+- doc_id: hadis-muslim-ind
+  judul: Sahih Muslim (terjemahan Indonesia)
+  singkatan: HR. Muslim
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-muslim.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); asal terjemahan dicatat di sources-verification.md
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 97a76412987c7f207d02bee4c36e752fa50a5e1e46ad6769892ed7c1491b9636
+  catatan: 'Tidak dipakai di korpus publik: metadata edisi terjemahan (author "Unknown", source "") tidak
+    bisa diverifikasi lisensi/provenance-nya (spec Sec 4.1, docs/sources-verification.md "Hadith translation
+    provenance"). Chunk hadis publik hanya memakai matan Arab dari edisi -ara.'
+- doc_id: hadis-abudawud-ara
+  judul: Sunan Abu Dawud (teks Arab)
+  singkatan: HR. Abu Dawud
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abudawud.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); matan domain publik
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 30dd3792ea65abe7fd0be8d568809d4eac04e38cbbd588b9c6055218fe43675f
+- doc_id: hadis-abudawud-ind
+  judul: Sunan Abu Dawud (terjemahan Indonesia)
+  singkatan: HR. Abu Dawud
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-abudawud.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); asal terjemahan dicatat di sources-verification.md
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: b00cc9b74b012f3da67c7f3fe8275b61cd223707f9dba7ff68cab38d0b89a69f
+  catatan: 'Tidak dipakai di korpus publik: metadata edisi terjemahan (author "Unknown", source "") tidak
+    bisa diverifikasi lisensi/provenance-nya (spec Sec 4.1, docs/sources-verification.md "Hadith translation
+    provenance"). Chunk hadis publik hanya memakai matan Arab dari edisi -ara.'
+- doc_id: hadis-tirmidhi-ara
+  judul: Jami' at-Tirmidzi (teks Arab)
+  singkatan: HR. Tirmidzi
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-tirmidhi.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); matan domain publik
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 22b7ffbbca9beb5d4f108cc0389a3cd16917876b3ceb32993c46e1554afd871b
+- doc_id: hadis-tirmidhi-ind
+  judul: Jami' at-Tirmidzi (terjemahan Indonesia)
+  singkatan: HR. Tirmidzi
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-tirmidhi.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); asal terjemahan dicatat di sources-verification.md
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 85ecdb090a40630cb9b7ed57b0d67f78d21479c331ea397a61a314ae78256ea8
+  catatan: 'Tidak dipakai di korpus publik: metadata edisi terjemahan (author "Unknown", source "") tidak
+    bisa diverifikasi lisensi/provenance-nya (spec Sec 4.1, docs/sources-verification.md "Hadith translation
+    provenance"). Chunk hadis publik hanya memakai matan Arab dari edisi -ara.'
+- doc_id: hadis-nasai-ara
+  judul: Sunan an-Nasa'i (teks Arab)
+  singkatan: HR. Nasai
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nasai.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); matan domain publik
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 18294d8da9ec9a735719f26709858ac30657c1122f6a39d179f128bfc59ecb80
+- doc_id: hadis-nasai-ind
+  judul: Sunan an-Nasa'i (terjemahan Indonesia)
+  singkatan: HR. Nasai
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-nasai.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); asal terjemahan dicatat di sources-verification.md
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 24c6f23371de8bef3fa7670e8bb8aa271ca53922df35513f8f373ceaf7dc3963
+  catatan: 'Tidak dipakai di korpus publik: metadata edisi terjemahan (author "Unknown", source "") tidak
+    bisa diverifikasi lisensi/provenance-nya (spec Sec 4.1, docs/sources-verification.md "Hadith translation
+    provenance"). Chunk hadis publik hanya memakai matan Arab dari edisi -ara.'
+- doc_id: hadis-ibnmajah-ara
+  judul: Sunan Ibnu Majah (teks Arab)
+  singkatan: HR. Ibnu Majah
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-ibnmajah.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); matan domain publik
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 495fcccdea5f2d157794d2b1bd1eaa0e0a5ff5aeb6be2d7817de8f25e3b3349c
+- doc_id: hadis-ibnmajah-ind
+  judul: Sunan Ibnu Majah (terjemahan Indonesia)
+  singkatan: HR. Ibnu Majah
+  jenis: hadis
+  url_sumber: https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-ibnmajah.min.json
+  format: json
+  lisensi: Unlicense (fawazahmed0/hadith-api); asal terjemahan dicatat di sources-verification.md
+  visibility: public
+  domain: kewarisan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 9fa89db8865c4bd208db66d5f78ca220c797978ac54ab6a8b67eb8a6f96540f8
+  catatan: 'Tidak dipakai di korpus publik: metadata edisi terjemahan (author "Unknown", source "") tidak
+    bisa diverifikasi lisensi/provenance-nya (spec Sec 4.1, docs/sources-verification.md "Hadith translation
+    provenance"). Chunk hadis publik hanya memakai matan Arab dari edisi -ara.'
+- doc_id: uu-1-1974
+  judul: Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan
+  singkatan: UU 1/1974
+  jenis: uu
+  nomor: '1'
+  tahun: 1974
+  status: diubah
+  url_sumber: https://peraturan.bpk.go.id/Download/36382/UU%20Nomor%201%20Tahun%201974.pdf
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: perkawinan
+  domain_rules:
+  - bab: VIII
+    domain: perceraian
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: a92f3ce36bf243747193d0170d804442144aad603930ca74e4b230fbbdb1d9e4
+- doc_id: uu-16-2019
+  judul: Undang-Undang Nomor 16 Tahun 2019 tentang Perubahan atas Undang-Undang Nomor 1 Tahun 1974 tentang
+    Perkawinan
+  singkatan: UU 16/2019
+  jenis: uu
+  nomor: '16'
+  tahun: 2019
+  status: berlaku
+  url_sumber: https://peraturan.bpk.go.id/Download/113523/UU%20Nomor%2016%20Tahun%202019.pdf
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: perkawinan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  amends: uu-1-1974
+  text_replacements:
+    'ini mulai berlaku pada tanggal': 'Undang-Undang ini mulai berlaku pada tanggal diundangkan.'
+    "\nUndang-Undang\ndiundangkan.": ""
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 2e33862e2a3c0eb4bb71315b3e3230a13932eff2aed5c280738088609ea02e40
+- doc_id: pp-9-1975
+  judul: Peraturan Pemerintah Nomor 9 Tahun 1975 tentang Pelaksanaan Undang-Undang Nomor 1 Tahun 1974
+    tentang Perkawinan
+  singkatan: PP 9/1975
+  jenis: pp
+  nomor: '9'
+  tahun: 1975
+  status: berlaku
+  url_sumber: https://peraturan.bpk.go.id/Download/58020/PP%20NO%209%20TH%201975.pdf
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: perkawinan
+  domain_rules:
+  - bab: V
+    domain: perceraian
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: fbd8bbddf463916935883a656ee2de46b7303de511e3d216b4ea7ad8f3429481
+- doc_id: khi-1991
+  judul: Kompilasi Hukum Islam (Instruksi Presiden Nomor 1 Tahun 1991 tentang Penyebarluasan Kompilasi
+    Hukum Islam)
+  singkatan: KHI
+  jenis: inpres
+  nomor: '1'
+  tahun: 1991
+  status: berlaku
+  url_sumber: https://simbi.kemenag.go.id/eliterasi/storage/perpustakaan/slims/repository/b5c07c0ce34195adb3cd15ad059b33f2.pdf
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: perkawinan
+  domain_rules:
+  - buku: II
+    domain: kewarisan
+  - buku: III
+    domain: skip
+  - buku: I
+    bab: XVI
+    domain: perceraian
+  - buku: I
+    bab: XVII
+    domain: perceraian
+  - buku: I
+    bab: XVIII
+    domain: perceraian
+  - buku: I
+    bab: XIX
+    domain: perceraian
+  role: corpus
+  text_corrections:
+    agarna: agama
+    apahila: apabila
+    bal'in: ba'in
+    basil: hasil
+    berkewajihan: berkewajiban
+    bersarna: bersama
+    besamya: besarnya
+    cajon: calon
+    dalarn: dalam
+    diamhil: diambil
+    dicahut: dicabut
+    dihawah: dibawah
+    dihuat: dibuat
+    dipeijanjikan: diperjanjikan
+    dipetjanjikan: diperjanjikan
+    enarn: enam
+    hadan: badan
+    hagi: bagi
+    hagian: bagian
+    haiknya: baiknya
+    harang: barang
+    hawah: bawah
+    henda: benda
+    herada: berada
+    herdasarkan: berdasarkan
+    herdasartkan: berdasarkan
+    hersama: bersama
+    hila: bila
+    hilamana: bilamana
+    huhungan: hubungan
+    hukurn: hukum
+    ihu: ibu
+    ihunya: ibunya
+    jawah: jawab
+    jenazab: jenazah
+    kemhali: kembali
+    kerahatnya: kerabatnya
+    laban: lahan
+    lahimya: lahirnya
+    lbu: ibu
+    lehih: lebih
+    lsi: isi
+    lsteri: isteri
+    ltsbat: itsbat
+    melehihi: melebihi
+    memherikan: memberikan
+    mencahut: mencabut
+    natkah: nafkah
+    peijanjian: perjanjian
+    pellcatat: pencatat
+    pemahuk: pemabuk
+    pemhagian: pembagian
+    pemhoros: pemboros
+    pemikahan: pernikahan
+    pemyataan: pernyataan
+    pencahutan: pencabutan
+    peneegahan: pencegahan
+    pennohonan: permohonan
+    perdarnaian: perdamaian
+    perhuatan: perbuatan
+    petjanjian: perjanjian
+    petjodohan: perjodohan
+    petwalian: perwalian
+    petwaliannya: perwaliannya
+    rnaksud: maksud
+    rnempunyai: mempunyai
+    rnengikrarkan: mengikrarkan
+    rnengucapkan: mengucapkan
+    rnenjatuhkan: menjatuhkan
+    rnerupakan: merupakan
+    rnungkin: mungkin
+    rurnah: rumah
+    sarna: sama
+    sarnpai: sampai
+    sating: saling
+    sehagai: sebagai
+    sehelum: sebelum
+    selarna: selama
+    sempuma: sempurna
+    seoarang: seorang
+    suamt: suami
+    suarni: suami
+    tasakh: fasakh
+    teijadi: terjadi
+    teijadinya: terjadinya
+    temyata: ternyata
+    tersehut: tersebut
+    tetjadi: terjadi
+    tetjadinya: terjadinya
+    wans: waris
+  text_replacements:
+    'c. salah satu pihak mendapat cacat badan': 'e. salah satu pihak mendapat cacat badan'
+    'Ia yak': 'layak'
+    "c. melunasi mahar yang\nseluruhnya, dan separoh\ndukhul;\nmasih terhutang\napabila qobla al": 'c. melunasi mahar yang masih terhutang seluruhnya, dan separoh apabila qobla al dukhul;'
+    'urn urn': 'umum'
+    'bel urn': 'belum'
+    "mut' ah": "mut'ah"
+  footnote_moves:
+    '185': '177'
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 322fe34a0fc77ba234a2e853e43925d1713b4cc447f95e07ef537bd2a451a2e3
+  catatan: Pasal 124 dan 139 tidak ada di dua teks resmi (buku Kemenag dan Direktori Putusan MA); "Apabila
+    tempat kediaman tergugat tidak jelas" adalah Pasal 138 di keduanya. Salah baca OCR dikoreksi lewat
+    text_corrections, dicek silang dengan khi-1991-ma. Koreksi teks KHI 116 (huruf e), 149, 183, 191
+    dan pemindahan catatan kaki SEMA 2/1994 dari Pasal 185 ke 177 mengikuti teks Direktori Putusan MA;
+    huruf terakhir Pasal 116 tetap 'k.' sesuai kedua teks resmi.
+- doc_id: khi-1991-ma
+  judul: Kompilasi Hukum Islam (teks Direktori Putusan Mahkamah Agung)
+  singkatan: KHI
+  jenis: inpres
+  nomor: '1'
+  tahun: 1991
+  status: berlaku
+  url_sumber: https://putusan3.mahkamahagung.go.id/peraturan/download_file/11e9da0c8167c912b4d6313930343435/pdf/11e9da0c8167c5c0b9c2313930343435.html
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: perkawinan
+  domain_rules: []
+  role: reference
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: manual
+  tanggal_unduh: '2026-09-27'
+  sha256: 3f884f63ae069cde40e325ee6c5c0f966a0423489e4d17ea23b06dafca7022cb
+  catatan: Diunduh manual oleh pemilik lewat browser (unduhan otomatis terhalang proteksi bot). Hanya
+    untuk cek silang teks KHI; tidak di-chunk. Teks MA punya salah ketik sendiri ("perceraraian", "alsan")
+    dan spasi di tengah kata saat diekstrak, jadi tidak dipakai sebagai korpus.
+- doc_id: uu-7-1989
+  judul: Undang-Undang Nomor 7 Tahun 1989 tentang Peradilan Agama
+  singkatan: UU 7/1989
+  jenis: uu
+  nomor: '7'
+  tahun: 1989
+  status: diubah
+  url_sumber: https://peraturan.bpk.go.id/Download/35577/UU%20Nomor%207%20Tahun%201989.pdf
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: peradilan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 0a0020bc29e02c49e2edc00cc70e5893c200cb9ffc008d905a77b8e18dcb3e59
+- doc_id: uu-3-2006
+  judul: Undang-Undang Nomor 3 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1989 tentang
+    Peradilan Agama
+  singkatan: UU 3/2006
+  jenis: uu
+  nomor: '3'
+  tahun: 2006
+  status: berlaku
+  url_sumber: https://peraturan.bpk.go.id/Download/29789/UU%20Nomor%203%20Tahun%202006.pdf
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: peradilan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  amends: uu-7-1989
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: bab53217b7fbd6d4db7cc217b0cfe7bb9f29186a2d1d682ae55f7c439536c7ac
+- doc_id: uu-50-2009
+  judul: Undang-Undang Nomor 50 Tahun 2009 tentang Perubahan Kedua atas Undang-Undang Nomor 7 Tahun 1989
+    tentang Peradilan Agama
+  singkatan: UU 50/2009
+  jenis: uu
+  nomor: '50'
+  tahun: 2009
+  status: berlaku
+  url_sumber: https://peraturan.bpk.go.id/Download/28124/UU%20Nomor%2050%20Tahun%202009.pdf
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: peradilan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  amends: uu-7-1989
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 2c437ba31d5cd1da75960ec9e18d9b546c47bc25cc2fe3220ed95bf2a37c450c
+- doc_id: perma-1-2016
+  judul: Peraturan Mahkamah Agung Nomor 1 Tahun 2016 tentang Prosedur Mediasi di Pengadilan
+  singkatan: PERMA 1/2016
+  jenis: perma
+  nomor: '1'
+  tahun: 2016
+  status: berlaku
+  url_sumber: https://jdih.mahkamahagung.go.id/storage/uploads/produk_hukum/PERMA%20NOMOR%201%20TAHUN%202016/1638486693_PERMA_MEDIASI_PENGADILAN_WEB.pdf
+  format: pdf
+  lisensi: public-domain (UU 28/2014 Pasal 42)
+  visibility: public
+  domain: prosedur
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 353960150c92a7333a49577b6e31911ca45e9ecf431625984291356c05310ae2
+- doc_id: prosedur-cerai-gugat
+  judul: Prosedur Berperkara Cerai Gugat di Pengadilan Agama
+  singkatan: Prosedur Cerai Gugat
+  jenis: prosedur
+  url_sumber: https://pa-bogor.go.id/pelayanan/prosedur-berperkara/tingkat-pertama/cerai-gugat
+  format: html
+  lisensi: dokumen resmi pemerintah, dikutip dengan sumber
+  visibility: public
+  domain: prosedur
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  html_selector: div.item-page
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: b493603274b15c237539125e5a78b10409c1a11d0a0e1a2914438f9c368f10a2
+- doc_id: prosedur-cerai-talak
+  judul: Prosedur Berperkara Cerai Talak di Pengadilan Agama
+  singkatan: Prosedur Cerai Talak
+  jenis: prosedur
+  url_sumber: https://pa-bogor.go.id/pelayanan/prosedur-berperkara/tingkat-pertama/cerai-talak
+  format: html
+  lisensi: dokumen resmi pemerintah, dikutip dengan sumber
+  visibility: public
+  domain: prosedur
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  html_selector: div.item-page
+  procedure_unit: step
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: f7509cc1a4fb8e65947378b7c59c62679eb0c14dbb359e70a4252cabe74c1ca9
+- doc_id: prosedur-waris
+  judul: Prosedur Permohonan Penetapan Ahli Waris (P3HP) di Pengadilan Agama
+  singkatan: Prosedur Waris
+  jenis: prosedur
+  url_sumber: https://ptsp.pa-wonosobo.go.id/syarat-berperkara/penetapan-ahli-waris/
+  format: html
+  lisensi: dokumen resmi pemerintah, dikutip dengan sumber
+  visibility: public
+  domain: prosedur
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  html_selector: div.entry-content
+  procedure_unit: list
+  fetcher: http
+  tanggal_unduh: '2026-09-27'
+  sha256: 69c927423f541626aa76395f79699b9875428a9e853edb43921fc12cbe635d63
+- doc_id: hadeethenc-id
+  judul: Ensiklopedia Terjemahan Hadis-hadis Nabi (HadeethEnc.com), terjemahan Indonesia
+  singkatan: HadeethEnc
+  jenis: hadis
+  url_sumber: https://hadeethenc.com/api/v1/
+  format: json
+  lisensi: 'HadeethEnc.com (Rowad Translation Center): boleh diunduh dan dipublikasikan ulang tanpa perubahan
+    isi, dengan menyebut sumber (HadeethEnc.com) dan nomor versi'
+  visibility: public
+  domain: perkawinan
+  domain_rules: []
+  role: corpus
+  text_corrections: {}
+  procedure_unit: step
+  fetcher: hadeethenc
+  tanggal_unduh: '2026-09-27'
+  sha256: 7e063cac01a24248a2b490cc2e0a9a9a0517698fa0fc46576ac5856d3b149d40
+  catatan: Snapshot API per kategori fikih keluarga dan waris; tanggal snapshot dipakai sebagai nomor
+    versi.

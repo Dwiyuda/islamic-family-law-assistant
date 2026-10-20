@@ -1,0 +1,6298 @@
+{
+ "methods": {
+  "bm25": {
+   "n": 80,
+   "recall@5": 0.2227,
+   "mrr@10": 0.3046,
+   "ndcg@10": 0.2565,
+   "per_question": [
+    {
+     "qid": "cerai-001",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58082",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "hadith:hadeethenc:58155",
+      "khi-1991:pasal-138"
+     ]
+    },
+    {
+     "qid": "cerai-002",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-61",
+      "uu-7-1989:pasal-67",
+      "uu-7-1989:pasal-86",
+      "hadith:hadeethenc:5821",
+      "hadith:hadeethenc:6045",
+      "khi-1991:pasal-96",
+      "uu-7-1989:pasal-41",
+      "hadith:hadeethenc:58076",
+      "uu-7-1989:pasal-37"
+     ]
+    },
+    {
+     "qid": "cerai-003",
+     "recall@5": 0.0,
+     "mrr@10": 0.1111111111111111,
+     "ndcg@10": 0.11751610475642714,
+     "top10": [
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-131",
+      "pp-9-1975:pasal-16",
+      "uu-7-1989:pasal-87",
+      "hadith:hadeethenc:5855",
+      "pp-9-1975:pasal-26",
+      "khi-1991:pasal-102",
+      "hadith:hadeethenc:58127",
+      "khi-1991:pasal-134",
+      "hadith:hadeethenc:58075"
+     ]
+    },
+    {
+     "qid": "cerai-004",
+     "recall@5": 0.0,
+     "mrr@10": 0.125,
+     "ndcg@10": 0.23599633571930026,
+     "top10": [
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-48",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-48",
+      "khi-1991:pasal-135",
+      "hadith:hadeethenc:58082",
+      "pp-9-1975:pasal-23"
+     ]
+    },
+    {
+     "qid": "cerai-005",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-48",
+      "hadith:hadeethenc:58082",
+      "uu-7-1989:pasal-48",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "hadith:hadeethenc:6046",
+      "khi-1991:pasal-80"
+     ]
+    },
+    {
+     "qid": "cerai-006",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.2960819109658652,
+     "top10": [
+      "hadith:hadeethenc:58183",
+      "khi-1991:pasal-46",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-27",
+      "hadith:hadeethenc:4959",
+      "quran:65:7",
+      "hadith:hadeethenc:8286",
+      "hadith:hadeethenc:58126",
+      "hadith:hadeethenc:58155",
+      "hadith:hadeethenc:6086"
+     ]
+    },
+    {
+     "qid": "cerai-007",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "hadith:hadeethenc:58151",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "hadith:hadeethenc:6045",
+      "uu-1-1974:pasal-10"
+     ]
+    },
+    {
+     "qid": "cerai-008",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-16",
+      "khi-1991:pasal-95",
+      "uu-7-1989:pasal-41",
+      "hadith:hadeethenc:8286",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "hadith:hadeethenc:58140",
+      "hadith:hadeethenc:58078",
+      "hadith:hadeethenc:58082"
+     ]
+    },
+    {
+     "qid": "cerai-009",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-37",
+      "hadith:hadeethenc:58082",
+      "hadith:hadeethenc:58165",
+      "hadith:hadeethenc:58175"
+     ]
+    },
+    {
+     "qid": "cerai-010",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58140",
+      "quran:65:1",
+      "quran:4:23",
+      "quran:33:49",
+      "quran:5:106",
+      "hadith:hadeethenc:6045",
+      "hadith:hadeethenc:58082",
+      "hadith:hadeethenc:58151",
+      "quran:4:20",
+      "quran:2:237"
+     ]
+    },
+    {
+     "qid": "cerai-011",
+     "recall@5": 0.2,
+     "mrr@10": 0.2,
+     "ndcg@10": 0.13120507751234178,
+     "top10": [
+      "hadith:hadeethenc:58138",
+      "khi-1991:pasal-46",
+      "hadith:hadeethenc:8286",
+      "khi-1991:pasal-163",
+      "hadith:hadeethenc:58078",
+      "hadith:hadeethenc:5827",
+      "hadith:hadeethenc:58140",
+      "khi-1991:pasal-70",
+      "hadith:hadeethenc:58134",
+      "uu-7-1989:pasal-68"
+     ]
+    },
+    {
+     "qid": "cerai-012",
+     "recall@5": 0.25,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.24630238874073,
+     "top10": [
+      "hadith:hadeethenc:58168",
+      "hadith:hadeethenc:5827",
+      "hadith:hadeethenc:58149",
+      "hadith:hadeethenc:58157",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-167",
+      "khi-1991:pasal-129",
+      "khi-1991:pasal-131",
+      "hadith:hadeethenc:58138",
+      "hadith:hadeethenc:58100"
+     ]
+    },
+    {
+     "qid": "cerai-013",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.46927872602275644,
+     "top10": [
+      "khi-1991:pasal-153",
+      "hadith:hadeethenc:58165",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-37",
+      "hadith:hadeethenc:58082"
+     ]
+    },
+    {
+     "qid": "cerai-014",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:6046",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "quran:2:230",
+      "hadith:hadeethenc:58078"
+     ]
+    },
+    {
+     "qid": "cerai-015",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.5049197748991976,
+     "top10": [
+      "hadith:hadeethenc:6046",
+      "hadith:hadeethenc:58165",
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-153",
+      "uu-3-2006:pasal-48",
+      "pp-9-1975:pasal-39",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "quran:65:4"
+     ]
+    },
+    {
+     "qid": "cerai-016",
+     "recall@5": 0.2,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.2716774977597197,
+     "top10": [
+      "hadith:hadeethenc:58106",
+      "quran:4:21",
+      "quran:2:237",
+      "khi-1991:pasal-70",
+      "hadith:hadeethenc:58157",
+      "hadith:hadeethenc:5861",
+      "quran:2:236",
+      "hadith:hadeethenc:58168",
+      "khi-1991:pasal-153",
+      "hadith:hadeethenc:58161"
+     ]
+    },
+    {
+     "qid": "cerai-017",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58076",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "hadith:hadeethenc:58082",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-78",
+      "hadith:hadeethenc:58093"
+     ]
+    },
+    {
+     "qid": "cerai-018",
+     "recall@5": 0.25,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.33424620450682646,
+     "top10": [
+      "hadith:hadeethenc:58078",
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-160",
+      "quran:33:49",
+      "hadith:hadeethenc:58076",
+      "quran:2:236",
+      "hadith:hadeethenc:5922",
+      "quran:2:241",
+      "khi-1991:pasal-38",
+      "hadith:hadeethenc:58075"
+     ]
+    },
+    {
+     "qid": "cerai-019",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58165",
+      "hadith:hadeethenc:58175",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "hadith:hadeethenc:58164",
+      "hadith:hadeethenc:58082",
+      "uu-3-2006:pasal-48"
+     ]
+    },
+    {
+     "qid": "cerai-020",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.2622073738811406,
+     "top10": [
+      "quran:5:107",
+      "hadith:hadeethenc:58166",
+      "quran:5:106",
+      "khi-1991:pasal-70",
+      "hadith:hadeethenc:58060",
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:58190",
+      "khi-1991:pasal-156",
+      "uu-1-1974:pasal-15",
+      "uu-1-1974:pasal-24"
+     ]
+    },
+    {
+     "qid": "cerai-021",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6975637657739948,
+     "top10": [
+      "uu-1-1974:pasal-41",
+      "quran:4:6",
+      "pp-9-1975:pasal-24",
+      "hadith:hadeethenc:58190",
+      "quran:4:11",
+      "khi-1991:pasal-105",
+      "quran:65:6",
+      "hadith:hadeethenc:58175",
+      "uu-7-1989:pasal-78",
+      "hadith:hadeethenc:58100"
+     ]
+    },
+    {
+     "qid": "cerai-022",
+     "recall@5": 0.4,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.5562840298360984,
+     "top10": [
+      "khi-1991:pasal-80",
+      "khi-1991:pasal-156",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-104",
+      "khi-1991:pasal-105",
+      "quran:4:12",
+      "khi-1991:pasal-149",
+      "uu-7-1989:pasal-86",
+      "uu-1-1974:pasal-45",
+      "uu-1-1974:pasal-41"
+     ]
+    },
+    {
+     "qid": "cerai-023",
+     "recall@5": 0.5,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.2640681225725909,
+     "top10": [
+      "hadith:hadeethenc:58175",
+      "quran:2:240",
+      "hadith:hadeethenc:58093",
+      "khi-1991:pasal-156",
+      "quran:65:6",
+      "khi-1991:pasal-177",
+      "quran:4:12",
+      "khi-1991:pasal-179",
+      "khi-1991:pasal-180",
+      "hadith:hadeethenc:5819"
+     ]
+    },
+    {
+     "qid": "cerai-024",
+     "recall@5": 0.2,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.3391602052736161,
+     "top10": [
+      "hadith:hadeethenc:58149",
+      "hadith:hadeethenc:8286",
+      "hadith:hadeethenc:58078",
+      "quran:4:21",
+      "hadith:hadeethenc:58157",
+      "hadith:hadeethenc:58134",
+      "hadith:hadeethenc:58140",
+      "hadith:hadeethenc:6089",
+      "hadith:hadeethenc:58168",
+      "hadith:hadeethenc:5827"
+     ]
+    },
+    {
+     "qid": "cerai-025",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58076",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-48",
+      "hadith:hadeethenc:58078",
+      "uu-7-1989:pasal-48",
+      "khi-1991:pasal-133"
+     ]
+    },
+    {
+     "qid": "cerai-026",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "hadith:hadeethenc:58165",
+      "hadith:hadeethenc:6983",
+      "hadith:hadeethenc:58082"
+     ]
+    },
+    {
+     "qid": "cerai-027",
+     "recall@5": 0.0,
+     "mrr@10": 0.1,
+     "ndcg@10": 0.09803928583135704,
+     "top10": [
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "hadith:hadeethenc:58100",
+      "hadith:hadeethenc:58082",
+      "hadith:hadeethenc:6024"
+     ]
+    },
+    {
+     "qid": "cerai-028",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58189",
+      "quran:5:107",
+      "khi-1991:pasal-79",
+      "uu-1-1974:pasal-31",
+      "pp-9-1975:pasal-24",
+      "khi-1991:pasal-136",
+      "uu-7-1989:pasal-77",
+      "khi-1991:pasal-80",
+      "khi-1991:pasal-84",
+      "khi-1991:pasal-16"
+     ]
+    },
+    {
+     "qid": "cerai-029",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58063",
+      "hadith:hadeethenc:6025",
+      "hadith:hadeethenc:58061",
+      "hadith:hadeethenc:58183",
+      "hadith:hadeethenc:6084",
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58157",
+      "hadith:hadeethenc:2965",
+      "khi-1991:pasal-12",
+      "quran:5:106"
+     ]
+    },
+    {
+     "qid": "cerai-030",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "hadith:hadeethenc:58165",
+      "quran:2:239",
+      "hadith:hadeethenc:3049"
+     ]
+    },
+    {
+     "qid": "cerai-031",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "hadith:hadeethenc:58100",
+      "hadith:hadeethenc:58106",
+      "quran:4:11"
+     ]
+    },
+    {
+     "qid": "cerai-032",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6366824387328317,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58153",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-48",
+      "quran:4:21",
+      "hadith:hadeethenc:58155"
+     ]
+    },
+    {
+     "qid": "cerai-033",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8318724637288826,
+     "top10": [
+      "khi-1991:pasal-170",
+      "hadith:hadeethenc:58164",
+      "hadith:hadeethenc:6086",
+      "khi-1991:pasal-81",
+      "uu-3-2006:pasal-48",
+      "hadith:hadeethenc:58165",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-48",
+      "uu-3-2006:pasal-41"
+     ]
+    },
+    {
+     "qid": "cerai-034",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.7328286204777911,
+     "top10": [
+      "khi-1991:pasal-97",
+      "khi-1991:pasal-137",
+      "pp-9-1975:pasal-25",
+      "uu-7-1989:pasal-79",
+      "khi-1991:pasal-153",
+      "hadith:hadeethenc:58176",
+      "khi-1991:pasal-12",
+      "pp-9-1975:pasal-39",
+      "hadith:hadeethenc:6046",
+      "hadith:hadeethenc:58165"
+     ]
+    },
+    {
+     "qid": "cerai-035",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-16",
+      "perma-1-2016:pasal-34",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "hadith:hadeethenc:58168",
+      "uu-3-2006:pasal-16"
+     ]
+    },
+    {
+     "qid": "waris-001",
+     "recall@5": 0.25,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.16812753627111746,
+     "top10": [
+      "uu-3-2006:pasal-48",
+      "hadith:hadeethenc:58082",
+      "uu-7-1989:pasal-48",
+      "quran:4:11",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-37",
+      "khi-1991:pasal-174"
+     ]
+    },
+    {
+     "qid": "waris-002",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6934264036172708,
+     "top10": [
+      "khi-1991:pasal-182",
+      "quran:4:11",
+      "khi-1991:pasal-176",
+      "khi-1991:pasal-181",
+      "quran:4:23",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:4311",
+      "hadith:hadeethenc:6035",
+      "quran:4:176",
+      "quran:4:12"
+     ]
+    },
+    {
+     "qid": "waris-003",
+     "recall@5": 0.4,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.36005461457723403,
+     "top10": [
+      "khi-1991:pasal-181",
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-176",
+      "quran:4:176",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:58067",
+      "hadith:hadeethenc:4311",
+      "hadith:hadeethenc:6035"
+     ]
+    },
+    {
+     "qid": "waris-004",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "quran:4:12",
+      "hadith:hadeethenc:2965",
+      "quran:4:11",
+      "uu-1-1974:pasal-5",
+      "khi-1991:pasal-177",
+      "hadith:hadeethenc:58093",
+      "pp-9-1975:pasal-41",
+      "khi-1991:pasal-185",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-171"
+     ]
+    },
+    {
+     "qid": "waris-005",
+     "recall@5": 0.0,
+     "mrr@10": 0.1,
+     "ndcg@10": 0.17723928678404774,
+     "top10": [
+      "uu-7-1989:pasal-41",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-48",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "hadith:hadeethenc:58082",
+      "khi-1991:pasal-182",
+      "quran:4:12"
+     ]
+    },
+    {
+     "qid": "waris-006",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-48",
+      "hadith:hadeethenc:58082",
+      "uu-3-2006:pasal-41",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-48",
+      "khi-1991:pasal-105",
+      "khi-1991:pasal-104"
+     ]
+    },
+    {
+     "qid": "waris-007",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "khi-1991:pasal-156",
+      "hadith:hadeethenc:58082",
+      "khi-1991:pasal-174"
+     ]
+    },
+    {
+     "qid": "waris-008",
+     "recall@5": 0.5,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.2640681225725909,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-178",
+      "khi-1991:pasal-104",
+      "khi-1991:pasal-156",
+      "hadith:hadeethenc:5887",
+      "quran:4:23",
+      "hadith:hadeethenc:4311"
+     ]
+    },
+    {
+     "qid": "waris-009",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "khi-1991:pasal-182",
+      "quran:4:7",
+      "khi-1991:pasal-176",
+      "hadith:hadeethenc:58082",
+      "uu-7-1989:pasal-41",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-7-1989:pasal-16",
+      "uu-3-2006:pasal-37"
+     ]
+    },
+    {
+     "qid": "waris-010",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6240505200038379,
+     "top10": [
+      "khi-1991:pasal-176",
+      "quran:4:176",
+      "quran:4:11",
+      "hadith:hadeethenc:4311",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "quran:4:23",
+      "quran:4:12",
+      "quran:4:7",
+      "hadith:hadeethenc:6035"
+     ]
+    },
+    {
+     "qid": "waris-011",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.23463936301137822,
+     "top10": [
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-195",
+      "khi-1991:pasal-182",
+      "quran:4:176",
+      "khi-1991:pasal-185",
+      "quran:4:12",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-189",
+      "khi-1991:pasal-178",
+      "quran:4:11"
+     ]
+    },
+    {
+     "qid": "waris-012",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-187",
+      "khi-1991:pasal-174",
+      "quran:4:176",
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-189",
+      "hadith:hadeethenc:8370",
+      "khi-1991:pasal-178",
+      "hadith:hadeethenc:58067",
+      "khi-1991:pasal-188"
+     ]
+    },
+    {
+     "qid": "waris-013",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-21",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "hadith:hadeethenc:4311",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16"
+     ]
+    },
+    {
+     "qid": "waris-014",
+     "recall@5": 0.5,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.2640681225725909,
+     "top10": [
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:8370",
+      "hadith:hadeethenc:58070",
+      "khi-1991:pasal-173",
+      "khi-1991:pasal-104",
+      "quran:4:11",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-156",
+      "hadith:hadeethenc:6035",
+      "hadith:hadeethenc:6160"
+     ]
+    },
+    {
+     "qid": "waris-015",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58165",
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:58175",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-156",
+      "hadith:hadeethenc:5887",
+      "uu-7-1989:pasal-16",
+      "khi-1991:pasal-178",
+      "quran:33:6"
+     ]
+    },
+    {
+     "qid": "waris-016",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6052602440527057,
+     "top10": [
+      "quran:5:107",
+      "khi-1991:pasal-209",
+      "quran:4:11",
+      "quran:5:106",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-171",
+      "quran:4:12",
+      "hadith:hadeethenc:58166",
+      "uu-1-1974:pasal-28",
+      "uu-1-1974:pasal-51"
+     ]
+    },
+    {
+     "qid": "waris-017",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-48",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "hadith:hadeethenc:58082",
+      "uu-3-2006:pasal-16",
+      "hadith:hadeethenc:58165"
+     ]
+    },
+    {
+     "qid": "waris-018",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:2:233",
+      "uu-1-1974:pasal-60",
+      "hadith:hadeethenc:2965",
+      "quran:4:20",
+      "hadith:hadeethenc:6035",
+      "hadith:hadeethenc:58103",
+      "hadith:hadeethenc:5831",
+      "uu-1-1974:pasal-21",
+      "khi-1991:pasal-197",
+      "hadith:hadeethenc:6046"
+     ]
+    },
+    {
+     "qid": "waris-019",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:4:11",
+      "uu-1-1974:pasal-51",
+      "khi-1991:pasal-209",
+      "uu-1-1974:pasal-49",
+      "uu-1-1974:pasal-6",
+      "hadith:hadeethenc:6160",
+      "hadith:hadeethenc:5831",
+      "khi-1991:pasal-59",
+      "hadith:hadeethenc:58140",
+      "khi-1991:pasal-108"
+     ]
+    },
+    {
+     "qid": "waris-020",
+     "recall@5": 0.25,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.3903800499921017,
+     "top10": [
+      "quran:5:106",
+      "hadith:hadeethenc:5855",
+      "pp-9-1975:pasal-22",
+      "hadith:hadeethenc:58127",
+      "hadith:hadeethenc:5831",
+      "hadith:hadeethenc:58067",
+      "khi-1991:pasal-123",
+      "khi-1991:pasal-203",
+      "khi-1991:pasal-134",
+      "pp-9-1975:pasal-18"
+     ]
+    },
+    {
+     "qid": "waris-021",
+     "recall@5": 0.0,
+     "mrr@10": 0.1,
+     "ndcg@10": 0.2890648263178879,
+     "top10": [
+      "khi-1991:pasal-203",
+      "khi-1991:pasal-204",
+      "khi-1991:pasal-197",
+      "quran:4:11",
+      "quran:2:182",
+      "hadith:hadeethenc:5831",
+      "khi-1991:pasal-209",
+      "uu-1-1974:pasal-51",
+      "hadith:hadeethenc:58072",
+      "khi-1991:pasal-199"
+     ]
+    },
+    {
+     "qid": "waris-022",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:5887",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "quran:4:4",
+      "khi-1991:pasal-187",
+      "uu-1-1974:pasal-34",
+      "hadith:hadeethenc:58140"
+     ]
+    },
+    {
+     "qid": "waris-023",
+     "recall@5": 0.0,
+     "mrr@10": 0.1111111111111111,
+     "ndcg@10": 0.3010299956639812,
+     "top10": [
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-48",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-16",
+      "hadith:hadeethenc:6035",
+      "khi-1991:pasal-212",
+      "quran:4:20"
+     ]
+    },
+    {
+     "qid": "waris-024",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "hadith:hadeethenc:6035",
+      "hadith:hadeethenc:5813",
+      "hadith:hadeethenc:5885",
+      "hadith:hadeethenc:2965",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-149",
+      "hadith:hadeethenc:58190",
+      "quran:2:233"
+     ]
+    },
+    {
+     "qid": "waris-025",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.21840743681816419,
+     "top10": [
+      "khi-1991:pasal-193",
+      "khi-1991:pasal-188",
+      "hadith:hadeethenc:58175",
+      "khi-1991:pasal-189",
+      "khi-1991:pasal-187",
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-192",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-201",
+      "khi-1991:pasal-175"
+     ]
+    },
+    {
+     "qid": "waris-026",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-76",
+      "khi-1991:pasal-93",
+      "khi-1991:pasal-87",
+      "quran:4:11",
+      "khi-1991:pasal-183",
+      "quran:4:21",
+      "quran:4:12",
+      "khi-1991:pasal-169",
+      "pp-9-1975:pasal-13",
+      "uu-1-1974:pasal-36"
+     ]
+    },
+    {
+     "qid": "waris-027",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6309297535714575,
+     "top10": [
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-189",
+      "hadith:hadeethenc:58140",
+      "uu-7-1989:pasal-91",
+      "hadith:hadeethenc:6027",
+      "pp-9-1975:pasal-19",
+      "khi-1991:pasal-21",
+      "khi-1991:pasal-116",
+      "hadith:hadeethenc:58181",
+      "hadith:hadeethenc:5813"
+     ]
+    },
+    {
+     "qid": "waris-028",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:6090",
+      "hadith:hadeethenc:4311",
+      "quran:4:25",
+      "hadith:hadeethenc:58106",
+      "quran:4:34",
+      "quran:4:176",
+      "khi-1991:pasal-176",
+      "quran:4:23",
+      "hadith:hadeethenc:6145",
+      "hadith:hadeethenc:58126"
+     ]
+    },
+    {
+     "qid": "waris-029",
+     "recall@5": 0.0,
+     "mrr@10": 0.1111111111111111,
+     "ndcg@10": 0.3010299956639812,
+     "top10": [
+      "khi-1991:pasal-46",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-41",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "khi-1991:pasal-62",
+      "khi-1991:pasal-93",
+      "khi-1991:pasal-191",
+      "quran:4:11"
+     ]
+    },
+    {
+     "qid": "waris-030",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.787702056960637,
+     "top10": [
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-182",
+      "quran:4:12",
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:58106",
+      "uu-7-1989:pasal-41",
+      "hadith:hadeethenc:6035",
+      "uu-7-1989:pasal-37",
+      "khi-1991:pasal-176"
+     ]
+    },
+    {
+     "qid": "peradilan-001",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "khi-1991:pasal-188",
+      "perma-1-2016:pasal-4:ayat-2",
+      "uu-3-2006:pasal-50",
+      "uu-7-1989:pasal-51",
+      "uu-7-1989:pasal-73",
+      "prosedur-cerai-talak:langkah-3",
+      "uu-7-1989:pasal-34",
+      "perma-1-2016:pasal-36",
+      "prosedur-cerai-gugat:langkah-2",
+      "uu-7-1989:pasal-50"
+     ]
+    },
+    {
+     "qid": "peradilan-002",
+     "recall@5": 0.0,
+     "mrr@10": 0.1,
+     "ndcg@10": 0.13565197343244778,
+     "top10": [
+      "uu-3-2006:pasal-48",
+      "uu-3-2006:pasal-16",
+      "uu-7-1989:pasal-16",
+      "hadith:hadeethenc:58082",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-37",
+      "uu-7-1989:pasal-73"
+     ]
+    },
+    {
+     "qid": "peradilan-003",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58082",
+      "quran:65:6",
+      "hadith:hadeethenc:58093",
+      "hadith:hadeethenc:58083",
+      "quran:2:232",
+      "hadith:hadeethenc:58100",
+      "quran:2:240",
+      "uu-3-2006:pasal-48",
+      "uu-3-2006:pasal-41",
+      "uu-7-1989:pasal-41"
+     ]
+    },
+    {
+     "qid": "peradilan-004",
+     "recall@5": 0.0,
+     "mrr@10": 0.1,
+     "ndcg@10": 0.11284514134893527,
+     "top10": [
+      "uu-3-2006:pasal-48",
+      "uu-3-2006:pasal-41",
+      "uu-7-1989:pasal-48",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "hadith:hadeethenc:58082",
+      "uu-3-2006:pasal-16",
+      "uu-7-1989:pasal-82"
+     ]
+    },
+    {
+     "qid": "peradilan-005",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48",
+      "uu-1-1974:pasal-10",
+      "hadith:hadeethenc:58082",
+      "uu-7-1989:pasal-70"
+     ]
+    },
+    {
+     "qid": "peradilan-006",
+     "recall@5": 0.4,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5087403079104241,
+     "top10": [
+      "uu-7-1989:pasal-82",
+      "perma-1-2016:pasal-17:ayat-10",
+      "perma-1-2016:pasal-3",
+      "perma-1-2016:pasal-23",
+      "perma-1-2016:pasal-7",
+      "perma-1-2016:pasal-32",
+      "perma-1-2016:pasal-35",
+      "perma-1-2016:pasal-27",
+      "uu-7-1989:pasal-70",
+      "perma-1-2016:pasal-11"
+     ]
+    },
+    {
+     "qid": "peradilan-007",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.20210734650054757,
+     "top10": [
+      "perma-1-2016:pasal-2",
+      "uu-3-2006:pasal-4",
+      "perma-1-2016:pasal-11",
+      "perma-1-2016:pasal-6",
+      "uu-7-1989:pasal-4",
+      "perma-1-2016:pasal-3",
+      "perma-1-2016:pasal-35",
+      "uu-3-2006:pasal-16",
+      "uu-50-2009:pasal-13a",
+      "perma-1-2016:pasal-25"
+     ]
+    },
+    {
+     "qid": "peradilan-008",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.21840743681816419,
+     "top10": [
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "perma-1-2016:pasal-7",
+      "hadith:hadeethenc:58082",
+      "perma-1-2016:pasal-23",
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-48"
+     ]
+    },
+    {
+     "qid": "peradilan-009",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6366824387328317,
+     "top10": [
+      "prosedur-cerai-talak:langkah-6",
+      "prosedur-cerai-gugat:langkah-5",
+      "perma-1-2016:pasal-23",
+      "khi-1991:pasal-189",
+      "uu-7-1989:pasal-91",
+      "uu-7-1989:pasal-101",
+      "uu-50-2009:pasal-91a",
+      "prosedur-waris:bagian-1",
+      "uu-7-1989:pasal-90",
+      "uu-3-2006:pasal-90"
+     ]
+    },
+    {
+     "qid": "peradilan-010",
+     "recall@5": 0.25,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.4484679026971164,
+     "top10": [
+      "uu-7-1989:pasal-90",
+      "perma-1-2016:pasal-23",
+      "uu-3-2006:pasal-90",
+      "uu-7-1989:pasal-91",
+      "prosedur-cerai-talak:langkah-6",
+      "perma-1-2016:pasal-22",
+      "prosedur-cerai-gugat:langkah-5",
+      "uu-50-2009:pasal-91a",
+      "perma-1-2016:pasal-9",
+      "perma-1-2016:pasal-1"
+     ]
+    },
+    {
+     "qid": "peradilan-011",
+     "recall@5": 0.5,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.2640681225725909,
+     "top10": [
+      "khi-1991:pasal-189",
+      "khi-1991:pasal-175",
+      "khi-1991:pasal-188",
+      "prosedur-waris:bagian-1",
+      "khi-1991:pasal-187",
+      "uu-7-1989:pasal-16",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-59",
+      "uu-7-1989:pasal-49",
+      "khi-1991:pasal-191"
+     ]
+    },
+    {
+     "qid": "peradilan-012",
+     "recall@5": 0.0,
+     "mrr@10": 0.125,
+     "ndcg@10": 0.2893079283427616,
+     "top10": [
+      "uu-3-2006:pasal-48",
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-48",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-84",
+      "khi-1991:pasal-8",
+      "khi-1991:pasal-169"
+     ]
+    },
+    {
+     "qid": "peradilan-013",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-131",
+      "khi-1991:pasal-117",
+      "hadith:hadeethenc:8286",
+      "hadith:hadeethenc:58157",
+      "uu-7-1989:pasal-71",
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-46",
+      "khi-1991:pasal-122",
+      "khi-1991:pasal-167"
+     ]
+    },
+    {
+     "qid": "peradilan-014",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-48",
+      "uu-3-2006:pasal-48",
+      "uu-3-2006:pasal-16",
+      "uu-7-1989:pasal-41",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "perma-1-2016:pasal-4:ayat-2",
+      "khi-1991:pasal-156"
+     ]
+    },
+    {
+     "qid": "peradilan-015",
+     "recall@5": 0.6,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.919261353975986,
+     "top10": [
+      "uu-7-1989:pasal-86",
+      "prosedur-cerai-gugat:langkah-4",
+      "khi-1991:pasal-190",
+      "prosedur-cerai-talak:langkah-5",
+      "pp-9-1975:pasal-24",
+      "uu-7-1989:pasal-87",
+      "perma-1-2016:pasal-31",
+      "uu-7-1989:pasal-66",
+      "prosedur-cerai-gugat:langkah-2",
+      "uu-7-1989:pasal-73"
+     ]
+    }
+   ]
+  },
+  "dense": {
+   "n": 80,
+   "recall@5": 0.5752,
+   "mrr@10": 0.6736,
+   "ndcg@10": 0.5962,
+   "per_question": [
+    {
+     "qid": "cerai-001",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9047172294870751,
+     "top10": [
+      "khi-1991:pasal-133",
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-19",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-21",
+      "hadith:hadeethenc:58151",
+      "uu-7-1989:pasal-73",
+      "khi-1991:pasal-132",
+      "khi-1991:pasal-136",
+      "pp-9-1975:pasal-20"
+     ]
+    },
+    {
+     "qid": "cerai-002",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "pp-9-1975:pasal-19",
+      "khi-1991:pasal-116",
+      "uu-7-1989:pasal-75",
+      "pp-9-1975:pasal-41",
+      "hadith:hadeethenc:3049",
+      "uu-1-1974:pasal-39",
+      "uu-7-1989:pasal-66",
+      "hadith:hadeethenc:3070",
+      "uu-7-1989:pasal-65",
+      "uu-7-1989:pasal-76"
+     ]
+    },
+    {
+     "qid": "cerai-003",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6366824387328317,
+     "top10": [
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "khi-1991:pasal-148",
+      "khi-1991:pasal-136",
+      "khi-1991:pasal-115",
+      "khi-1991:pasal-131",
+      "uu-1-1974:pasal-10",
+      "uu-1-1974:pasal-39",
+      "uu-7-1989:pasal-70",
+      "uu-7-1989:pasal-66"
+     ]
+    },
+    {
+     "qid": "cerai-004",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9828920819566879,
+     "top10": [
+      "khi-1991:pasal-135",
+      "pp-9-1975:pasal-23",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-74",
+      "uu-7-1989:pasal-84",
+      "uu-7-1989:pasal-67",
+      "uu-7-1989:pasal-76",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-66"
+     ]
+    },
+    {
+     "qid": "cerai-005",
+     "recall@5": 1.0,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.5,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-14",
+      "khi-1991:pasal-116",
+      "quran:65:1",
+      "uu-1-1974:pasal-10",
+      "khi-1991:pasal-148",
+      "khi-1991:pasal-136",
+      "prosedur-cerai-gugat:langkah-2",
+      "uu-1-1974:pasal-27",
+      "pp-9-1975:pasal-24"
+     ]
+    },
+    {
+     "qid": "cerai-006",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.2960819109658652,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-116",
+      "quran:2:237",
+      "hadith:hadeethenc:58145",
+      "hadith:hadeethenc:58153",
+      "quran:2:229",
+      "hadith:hadeethenc:58161",
+      "hadith:hadeethenc:5827",
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-1"
+     ]
+    },
+    {
+     "qid": "cerai-007",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9674679834891693,
+     "top10": [
+      "uu-7-1989:pasal-75",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-41",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-86",
+      "khi-1991:pasal-136",
+      "khi-1991:pasal-57",
+      "uu-7-1989:pasal-77",
+      "uu-7-1989:pasal-78",
+      "uu-7-1989:pasal-87"
+     ]
+    },
+    {
+     "qid": "cerai-008",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "khi-1991:pasal-109",
+      "khi-1991:pasal-95",
+      "pp-9-1975:pasal-41",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-86",
+      "uu-7-1989:pasal-75",
+      "uu-7-1989:pasal-65"
+     ]
+    },
+    {
+     "qid": "cerai-009",
+     "recall@5": 0.25,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5294362295028773,
+     "top10": [
+      "khi-1991:pasal-116",
+      "uu-1-1974:pasal-27",
+      "khi-1991:pasal-72",
+      "uu-7-1989:pasal-70",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-76",
+      "hadith:hadeethenc:6024",
+      "hadith:hadeethenc:58151",
+      "pp-9-1975:pasal-41"
+     ]
+    },
+    {
+     "qid": "cerai-010",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58142",
+      "hadith:hadeethenc:5827",
+      "uu-7-1989:pasal-81",
+      "khi-1991:pasal-147",
+      "uu-7-1989:pasal-70",
+      "pp-9-1975:pasal-34",
+      "hadith:hadeethenc:58140",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "quran:2:231"
+     ]
+    },
+    {
+     "qid": "cerai-011",
+     "recall@5": 0.2,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.4371994911049732,
+     "top10": [
+      "khi-1991:pasal-120",
+      "hadith:hadeethenc:58138",
+      "khi-1991:pasal-119",
+      "khi-1991:pasal-117",
+      "khi-1991:pasal-46",
+      "khi-1991:pasal-131",
+      "khi-1991:pasal-70",
+      "khi-1991:pasal-163",
+      "quran:2:229",
+      "hadith:hadeethenc:58078"
+     ]
+    },
+    {
+     "qid": "cerai-012",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6366824387328317,
+     "top10": [
+      "hadith:hadeethenc:5827",
+      "khi-1991:pasal-122",
+      "khi-1991:pasal-163",
+      "khi-1991:pasal-131",
+      "khi-1991:pasal-119",
+      "hadith:hadeethenc:58168",
+      "khi-1991:pasal-46",
+      "khi-1991:pasal-149",
+      "quran:2:229",
+      "hadith:hadeethenc:58149"
+     ]
+    },
+    {
+     "qid": "cerai-013",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9674679834891693,
+     "top10": [
+      "khi-1991:pasal-153",
+      "pp-9-1975:pasal-39",
+      "uu-1-1974:pasal-11",
+      "quran:2:228",
+      "quran:65:4",
+      "khi-1991:pasal-141",
+      "quran:2:234",
+      "pp-9-1975:pasal-29",
+      "hadith:hadeethenc:58161",
+      "uu-7-1989:pasal-68"
+     ]
+    },
+    {
+     "qid": "cerai-014",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "pp-9-1975:pasal-39",
+      "quran:2:234",
+      "khi-1991:pasal-153",
+      "hadith:hadeethenc:6046",
+      "uu-1-1974:pasal-6",
+      "quran:2:232",
+      "quran:2:240",
+      "uu-16-2019:pasal-7",
+      "pp-9-1975:pasal-41",
+      "hadith:hadeethenc:6086"
+     ]
+    },
+    {
+     "qid": "cerai-015",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9010126104210695,
+     "top10": [
+      "khi-1991:pasal-153",
+      "quran:65:4",
+      "hadith:hadeethenc:5827",
+      "hadith:hadeethenc:58161",
+      "quran:2:234",
+      "khi-1991:pasal-154",
+      "khi-1991:pasal-155",
+      "hadith:hadeethenc:58166",
+      "hadith:hadeethenc:6046",
+      "pp-9-1975:pasal-39"
+     ]
+    },
+    {
+     "qid": "cerai-016",
+     "recall@5": 0.2,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.26687965254220064,
+     "top10": [
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:58161",
+      "quran:2:236",
+      "khi-1991:pasal-153",
+      "khi-1991:pasal-151",
+      "quran:2:237",
+      "quran:2:234",
+      "khi-1991:pasal-149",
+      "hadith:hadeethenc:5827",
+      "hadith:hadeethenc:6020"
+     ]
+    },
+    {
+     "qid": "cerai-017",
+     "recall@5": 0.2,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.21398626473452756,
+     "top10": [
+      "uu-7-1989:pasal-78",
+      "uu-1-1974:pasal-41",
+      "uu-7-1989:pasal-86",
+      "uu-7-1989:pasal-66",
+      "prosedur-cerai-gugat:langkah-4",
+      "pp-9-1975:pasal-24",
+      "uu-7-1989:pasal-73",
+      "khi-1991:pasal-51",
+      "quran:2:228",
+      "khi-1991:pasal-136"
+     ]
+    },
+    {
+     "qid": "cerai-018",
+     "recall@5": 0.75,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.7271360547643255,
+     "top10": [
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-158",
+      "quran:2:236",
+      "khi-1991:pasal-160",
+      "khi-1991:pasal-35",
+      "quran:2:241",
+      "hadith:hadeethenc:58103",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-159",
+      "khi-1991:pasal-1"
+     ]
+    },
+    {
+     "qid": "cerai-019",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6257049680303419,
+     "top10": [
+      "khi-1991:pasal-152",
+      "khi-1991:pasal-151",
+      "hadith:hadeethenc:6020",
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-150",
+      "khi-1991:pasal-165",
+      "khi-1991:pasal-149",
+      "quran:2:236",
+      "hadith:hadeethenc:58161",
+      "quran:2:240"
+     ]
+    },
+    {
+     "qid": "cerai-020",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9176551163528843,
+     "top10": [
+      "khi-1991:pasal-105",
+      "uu-1-1974:pasal-41",
+      "prosedur-cerai-gugat:langkah-4",
+      "khi-1991:pasal-156",
+      "uu-7-1989:pasal-78",
+      "uu-1-1974:pasal-49",
+      "hadith:hadeethenc:58190",
+      "uu-7-1989:pasal-86",
+      "khi-1991:pasal-107",
+      "hadith:hadeethenc:58189"
+     ]
+    },
+    {
+     "qid": "cerai-021",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.787702056960637,
+     "top10": [
+      "uu-1-1974:pasal-41",
+      "hadith:hadeethenc:58190",
+      "uu-1-1974:pasal-43",
+      "uu-1-1974:pasal-47",
+      "khi-1991:pasal-105",
+      "uu-1-1974:pasal-51",
+      "quran:4:11",
+      "khi-1991:pasal-81",
+      "uu-1-1974:pasal-46",
+      "uu-1-1974:pasal-50"
+     ]
+    },
+    {
+     "qid": "cerai-022",
+     "recall@5": 0.6,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.7972541056822071,
+     "top10": [
+      "uu-1-1974:pasal-41",
+      "khi-1991:pasal-105",
+      "uu-7-1989:pasal-78",
+      "khi-1991:pasal-156",
+      "quran:2:233",
+      "uu-1-1974:pasal-48",
+      "uu-1-1974:pasal-45",
+      "uu-1-1974:pasal-49",
+      "uu-1-1974:pasal-47",
+      "khi-1991:pasal-149"
+     ]
+    },
+    {
+     "qid": "cerai-023",
+     "recall@5": 0.5,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.5,
+     "top10": [
+      "hadith:hadeethenc:58190",
+      "uu-1-1974:pasal-49",
+      "uu-1-1974:pasal-41",
+      "uu-7-1989:pasal-86",
+      "khi-1991:pasal-105",
+      "hadith:hadeethenc:58189",
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-156",
+      "khi-1991:pasal-106",
+      "prosedur-cerai-gugat:langkah-4"
+     ]
+    },
+    {
+     "qid": "cerai-024",
+     "recall@5": 0.2,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.24816574496561808,
+     "top10": [
+      "khi-1991:pasal-131",
+      "khi-1991:pasal-118",
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-167",
+      "khi-1991:pasal-129",
+      "prosedur-cerai-talak:langkah-1",
+      "khi-1991:pasal-164",
+      "quran:2:229",
+      "hadith:hadeethenc:58149",
+      "khi-1991:pasal-169"
+     ]
+    },
+    {
+     "qid": "cerai-025",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8503449055347546,
+     "top10": [
+      "khi-1991:pasal-164",
+      "khi-1991:pasal-69",
+      "hadith:hadeethenc:58078",
+      "uu-1-1974:pasal-21",
+      "khi-1991:pasal-165",
+      "khi-1991:pasal-43",
+      "khi-1991:pasal-119",
+      "khi-1991:pasal-72",
+      "uu-1-1974:pasal-10",
+      "uu-1-1974:pasal-27"
+     ]
+    },
+    {
+     "qid": "cerai-026",
+     "recall@5": 0.2,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.16958010263680806,
+     "top10": [
+      "quran:2:237",
+      "quran:2:236",
+      "quran:2:229",
+      "khi-1991:pasal-38",
+      "khi-1991:pasal-72",
+      "khi-1991:pasal-116",
+      "quran:4:128",
+      "uu-1-1974:pasal-27",
+      "quran:4:129",
+      "pp-9-1975:pasal-19"
+     ]
+    },
+    {
+     "qid": "cerai-027",
+     "recall@5": 0.4,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.4364597551790087,
+     "top10": [
+      "khi-1991:pasal-102",
+      "uu-1-1974:pasal-44",
+      "khi-1991:pasal-126",
+      "khi-1991:pasal-101",
+      "khi-1991:pasal-116",
+      "hadith:hadeethenc:6024",
+      "khi-1991:pasal-72",
+      "pp-9-1975:pasal-41",
+      "khi-1991:pasal-57",
+      "khi-1991:pasal-39"
+     ]
+    },
+    {
+     "qid": "cerai-028",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "khi-1991:pasal-96",
+      "pp-9-1975:pasal-24",
+      "uu-7-1989:pasal-78",
+      "khi-1991:pasal-86",
+      "quran:4:12",
+      "khi-1991:pasal-48",
+      "uu-7-1989:pasal-86",
+      "uu-1-1974:pasal-36",
+      "khi-1991:pasal-136",
+      "khi-1991:pasal-87"
+     ]
+    },
+    {
+     "qid": "cerai-029",
+     "recall@5": 0.6,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8207658584763088,
+     "top10": [
+      "khi-1991:pasal-95",
+      "khi-1991:pasal-92",
+      "khi-1991:pasal-136",
+      "khi-1991:pasal-96",
+      "pp-9-1975:pasal-24",
+      "uu-1-1974:pasal-39",
+      "uu-7-1989:pasal-77",
+      "uu-7-1989:pasal-65",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-78"
+     ]
+    },
+    {
+     "qid": "cerai-030",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9558295932317544,
+     "top10": [
+      "khi-1991:pasal-136",
+      "pp-9-1975:pasal-24",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-77",
+      "uu-7-1989:pasal-78",
+      "uu-1-1974:pasal-39",
+      "uu-7-1989:pasal-82",
+      "uu-7-1989:pasal-86",
+      "uu-1-1974:pasal-27",
+      "khi-1991:pasal-72"
+     ]
+    },
+    {
+     "qid": "cerai-031",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-1-1974:pasal-48",
+      "uu-1-1974:pasal-8",
+      "khi-1991:pasal-151",
+      "quran:4:23",
+      "quran:4:22",
+      "khi-1991:pasal-102",
+      "uu-1-1974:pasal-47",
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:6090",
+      "hadith:hadeethenc:5821"
+     ]
+    },
+    {
+     "qid": "cerai-032",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6366824387328317,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58153",
+      "quran:2:234",
+      "uu-1-1974:pasal-60",
+      "uu-1-1974:pasal-29",
+      "uu-1-1974:pasal-27",
+      "uu-1-1974:pasal-61",
+      "khi-1991:pasal-66",
+      "khi-1991:pasal-72",
+      "hadith:hadeethenc:6046"
+     ]
+    },
+    {
+     "qid": "cerai-033",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9349366583346496,
+     "top10": [
+      "khi-1991:pasal-170",
+      "hadith:hadeethenc:6086",
+      "khi-1991:pasal-153",
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-151",
+      "hadith:hadeethenc:6091",
+      "quran:2:234",
+      "khi-1991:pasal-81",
+      "hadith:hadeethenc:58161",
+      "khi-1991:pasal-154"
+     ]
+    },
+    {
+     "qid": "cerai-034",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8854598815714874,
+     "top10": [
+      "uu-7-1989:pasal-79",
+      "pp-9-1975:pasal-39",
+      "pp-9-1975:pasal-25",
+      "khi-1991:pasal-96",
+      "khi-1991:pasal-137",
+      "khi-1991:pasal-97",
+      "khi-1991:pasal-153",
+      "uu-7-1989:pasal-73",
+      "pp-9-1975:pasal-20",
+      "uu-7-1989:pasal-81"
+     ]
+    },
+    {
+     "qid": "cerai-035",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.16716045496620227,
+     "top10": [
+      "pp-9-1975:pasal-39",
+      "khi-1991:pasal-153",
+      "uu-7-1989:pasal-70",
+      "pp-9-1975:pasal-36",
+      "uu-7-1989:pasal-84",
+      "uu-7-1989:pasal-81",
+      "khi-1991:pasal-102",
+      "khi-1991:pasal-135",
+      "khi-1991:pasal-50",
+      "khi-1991:pasal-131"
+     ]
+    },
+    {
+     "qid": "waris-001",
+     "recall@5": 0.25,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5032251913410369,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-178",
+      "quran:4:176",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-156",
+      "khi-1991:pasal-176"
+     ]
+    },
+    {
+     "qid": "waris-002",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-181",
+      "hadith:hadeethenc:5887",
+      "quran:4:176",
+      "quran:4:7",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-178",
+      "quran:4:8",
+      "hadith:hadeethenc:10986"
+     ]
+    },
+    {
+     "qid": "waris-003",
+     "recall@5": 0.2,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.31608365985743925,
+     "top10": [
+      "quran:4:12",
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-181",
+      "quran:4:176",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-177",
+      "quran:4:7",
+      "khi-1991:pasal-180",
+      "khi-1991:pasal-179"
+     ]
+    },
+    {
+     "qid": "waris-004",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8503449055347546,
+     "top10": [
+      "quran:4:12",
+      "quran:4:11",
+      "quran:4:176",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-180",
+      "khi-1991:pasal-181",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-86",
+      "khi-1991:pasal-179"
+     ]
+    },
+    {
+     "qid": "waris-005",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "quran:4:12",
+      "khi-1991:pasal-82",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-182",
+      "quran:4:11",
+      "uu-1-1974:pasal-65",
+      "uu-1-1974:pasal-31",
+      "khi-1991:pasal-93",
+      "khi-1991:pasal-80"
+     ]
+    },
+    {
+     "qid": "waris-006",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.5833416105149332,
+     "top10": [
+      "khi-1991:pasal-181",
+      "quran:4:12",
+      "quran:4:11",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-178",
+      "quran:4:176",
+      "uu-1-1974:pasal-43",
+      "quran:2:233",
+      "khi-1991:pasal-156"
+     ]
+    },
+    {
+     "qid": "waris-007",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.33775931993299535,
+     "top10": [
+      "quran:4:12",
+      "khi-1991:pasal-180",
+      "khi-1991:pasal-174",
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-177",
+      "quran:2:240",
+      "khi-1991:pasal-182",
+      "quran:4:176",
+      "khi-1991:pasal-178"
+     ]
+    },
+    {
+     "qid": "waris-008",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8772153153380493,
+     "top10": [
+      "quran:4:12",
+      "quran:4:11",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-174",
+      "quran:4:176",
+      "quran:4:7",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-209",
+      "khi-1991:pasal-188"
+     ]
+    },
+    {
+     "qid": "waris-009",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9197207891481876,
+     "top10": [
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "quran:4:176",
+      "quran:4:12",
+      "khi-1991:pasal-174",
+      "quran:4:11",
+      "quran:4:7",
+      "quran:4:23",
+      "khi-1991:pasal-156",
+      "quran:2:180"
+     ]
+    },
+    {
+     "qid": "waris-010",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8772153153380493,
+     "top10": [
+      "khi-1991:pasal-182",
+      "quran:4:12",
+      "khi-1991:pasal-181",
+      "quran:4:176",
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-178",
+      "quran:4:23",
+      "quran:4:7",
+      "khi-1991:pasal-180"
+     ]
+    },
+    {
+     "qid": "waris-011",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.2960819109658652,
+     "top10": [
+      "quran:4:12",
+      "khi-1991:pasal-182",
+      "quran:4:11",
+      "quran:4:176",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-178",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-190",
+      "quran:4:7"
+     ]
+    },
+    {
+     "qid": "waris-012",
+     "recall@5": 0.5,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.3065735963827292,
+     "top10": [
+      "quran:4:12",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:5887",
+      "quran:4:7",
+      "quran:4:11",
+      "khi-1991:pasal-191",
+      "quran:4:176",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-209",
+      "khi-1991:pasal-181"
+     ]
+    },
+    {
+     "qid": "waris-013",
+     "recall@5": 1.0,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.5,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-185",
+      "quran:4:12",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-177",
+      "quran:4:7",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-188",
+      "khi-1991:pasal-211"
+     ]
+    },
+    {
+     "qid": "waris-014",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "khi-1991:pasal-173",
+      "quran:4:11",
+      "hadith:hadeethenc:8370",
+      "khi-1991:pasal-209",
+      "uu-1-1974:pasal-41",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-106",
+      "khi-1991:pasal-211",
+      "khi-1991:pasal-108",
+      "quran:4:12"
+     ]
+    },
+    {
+     "qid": "waris-015",
+     "recall@5": 0.25,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.3984887823764799,
+     "top10": [
+      "quran:4:176",
+      "quran:4:11",
+      "quran:4:12",
+      "hadith:hadeethenc:64716",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-181",
+      "quran:4:7",
+      "khi-1991:pasal-182",
+      "hadith:hadeethenc:64718",
+      "khi-1991:pasal-172"
+     ]
+    },
+    {
+     "qid": "waris-016",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-209",
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-108",
+      "quran:4:12",
+      "uu-1-1974:pasal-51",
+      "quran:4:11",
+      "khi-1991:pasal-106",
+      "quran:4:176",
+      "khi-1991:pasal-96",
+      "khi-1991:pasal-156"
+     ]
+    },
+    {
+     "qid": "waris-017",
+     "recall@5": 0.0,
+     "mrr@10": 0.14285714285714285,
+     "ndcg@10": 0.15642624200758548,
+     "top10": [
+      "khi-1991:pasal-174",
+      "quran:4:7",
+      "quran:4:12",
+      "quran:4:11",
+      "uu-1-1974:pasal-48",
+      "khi-1991:pasal-211",
+      "khi-1991:pasal-186",
+      "khi-1991:pasal-194",
+      "khi-1991:pasal-209",
+      "khi-1991:pasal-177"
+     ]
+    },
+    {
+     "qid": "waris-018",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.4776237035032179,
+     "top10": [
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-201",
+      "quran:4:11",
+      "quran:4:12",
+      "hadith:hadeethenc:5885",
+      "hadith:hadeethenc:5887",
+      "hadith:hadeethenc:8370",
+      "khi-1991:pasal-209",
+      "hadith:hadeethenc:10986",
+      "hadith:hadeethenc:5831"
+     ]
+    },
+    {
+     "qid": "waris-019",
+     "recall@5": 0.0,
+     "mrr@10": 0.14285714285714285,
+     "ndcg@10": 0.39780880120575696,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-209",
+      "khi-1991:pasal-108",
+      "hadith:hadeethenc:6035",
+      "quran:4:12",
+      "uu-1-1974:pasal-51",
+      "hadith:hadeethenc:8370",
+      "khi-1991:pasal-195",
+      "uu-1-1974:pasal-49",
+      "khi-1991:pasal-202"
+     ]
+    },
+    {
+     "qid": "waris-020",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.7668091220635322,
+     "top10": [
+      "khi-1991:pasal-195",
+      "khi-1991:pasal-194",
+      "khi-1991:pasal-199",
+      "hadith:hadeethenc:5831",
+      "uu-1-1974:pasal-51",
+      "khi-1991:pasal-201",
+      "khi-1991:pasal-196",
+      "khi-1991:pasal-206",
+      "khi-1991:pasal-200",
+      "hadith:hadeethenc:8370"
+     ]
+    },
+    {
+     "qid": "waris-021",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-199",
+      "khi-1991:pasal-197",
+      "khi-1991:pasal-201",
+      "uu-1-1974:pasal-51",
+      "khi-1991:pasal-195",
+      "khi-1991:pasal-204",
+      "khi-1991:pasal-108",
+      "khi-1991:pasal-203",
+      "khi-1991:pasal-200",
+      "uu-1-1974:pasal-49"
+     ]
+    },
+    {
+     "qid": "waris-022",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.23463936301137822,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-211",
+      "quran:4:7",
+      "quran:4:176",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-178",
+      "khi-1991:pasal-209"
+     ]
+    },
+    {
+     "qid": "waris-023",
+     "recall@5": 1.0,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.43067655807339306,
+     "top10": [
+      "khi-1991:pasal-188",
+      "khi-1991:pasal-189",
+      "khi-1991:pasal-211",
+      "khi-1991:pasal-212",
+      "khi-1991:pasal-108",
+      "hadith:hadeethenc:6035",
+      "uu-1-1974:pasal-48",
+      "quran:4:7",
+      "quran:4:11",
+      "uu-1-1974:pasal-49"
+     ]
+    },
+    {
+     "qid": "waris-024",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.21840743681816419,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-93",
+      "quran:2:233",
+      "quran:2:180",
+      "khi-1991:pasal-175",
+      "khi-1991:pasal-106",
+      "quran:4:7",
+      "hadith:ibnmajah:2703",
+      "khi-1991:pasal-96"
+     ]
+    },
+    {
+     "qid": "waris-025",
+     "recall@5": 0.5,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.48247555939075504,
+     "top10": [
+      "uu-1-1974:pasal-35",
+      "khi-1991:pasal-87",
+      "quran:4:12",
+      "khi-1991:pasal-96",
+      "khi-1991:pasal-86",
+      "khi-1991:pasal-171",
+      "quran:4:11",
+      "khi-1991:pasal-85",
+      "khi-1991:pasal-190",
+      "hadith:hadeethenc:5887"
+     ]
+    },
+    {
+     "qid": "waris-026",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.4776237035032179,
+     "top10": [
+      "quran:4:12",
+      "khi-1991:pasal-94",
+      "quran:4:11",
+      "khi-1991:pasal-82",
+      "khi-1991:pasal-190",
+      "hadith:hadeethenc:10986",
+      "quran:4:7",
+      "khi-1991:pasal-89",
+      "khi-1991:pasal-86",
+      "hadith:hadeethenc:58125"
+     ]
+    },
+    {
+     "qid": "waris-027",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-189",
+      "quran:4:11",
+      "quran:4:12",
+      "hadith:hadeethenc:10986",
+      "hadith:hadeethenc:6035",
+      "quran:4:176",
+      "hadith:hadeethenc:5887",
+      "hadith:hadeethenc:5885",
+      "quran:4:8",
+      "khi-1991:pasal-182"
+     ]
+    },
+    {
+     "qid": "waris-028",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:4:7",
+      "quran:4:11",
+      "quran:4:176",
+      "quran:4:12",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-188",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "quran:4:19"
+     ]
+    },
+    {
+     "qid": "waris-029",
+     "recall@5": 0.0,
+     "mrr@10": 0.1,
+     "ndcg@10": 0.2890648263178879,
+     "top10": [
+      "quran:4:12",
+      "hadith:hadeethenc:10986",
+      "quran:4:176",
+      "khi-1991:pasal-181",
+      "quran:2:240",
+      "khi-1991:pasal-174",
+      "quran:2:180",
+      "khi-1991:pasal-182",
+      "quran:4:11",
+      "khi-1991:pasal-191"
+     ]
+    },
+    {
+     "qid": "waris-030",
+     "recall@5": 0.5,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.6153925060653322,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "quran:4:176",
+      "quran:4:7",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-209",
+      "hadith:hadeethenc:10986",
+      "hadith:hadeethenc:5887"
+     ]
+    },
+    {
+     "qid": "peradilan-001",
+     "recall@5": 1.0,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.5706417189553201,
+     "top10": [
+      "uu-7-1989:pasal-49",
+      "uu-3-2006:pasal-50",
+      "uu-3-2006:pasal-49",
+      "khi-1991:pasal-188",
+      "quran:4:11",
+      "khi-1991:pasal-191",
+      "hadith:hadeethenc:64718",
+      "khi-1991:pasal-171",
+      "hadith:hadeethenc:64716",
+      "quran:4:176"
+     ]
+    },
+    {
+     "qid": "peradilan-002",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.7122630665145961,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "prosedur-cerai-gugat:langkah-2",
+      "uu-7-1989:pasal-73",
+      "khi-1991:pasal-136",
+      "khi-1991:pasal-132",
+      "prosedur-cerai-talak:langkah-3",
+      "khi-1991:pasal-148",
+      "pp-9-1975:pasal-20",
+      "khi-1991:pasal-88",
+      "uu-1-1974:pasal-25"
+     ]
+    },
+    {
+     "qid": "peradilan-003",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.4525081529734507,
+     "top10": [
+      "uu-7-1989:pasal-73",
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-132",
+      "pp-9-1975:pasal-20",
+      "pp-9-1975:pasal-14",
+      "prosedur-cerai-gugat:langkah-2",
+      "prosedur-cerai-talak:langkah-3",
+      "uu-1-1974:pasal-25",
+      "pp-9-1975:pasal-38",
+      "pp-9-1975:pasal-22"
+     ]
+    },
+    {
+     "qid": "peradilan-004",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6804558477306826,
+     "top10": [
+      "uu-7-1989:pasal-73",
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-20",
+      "khi-1991:pasal-132",
+      "uu-7-1989:pasal-82",
+      "prosedur-cerai-gugat:langkah-2",
+      "pp-9-1975:pasal-24",
+      "uu-1-1974:pasal-56",
+      "prosedur-cerai-talak:langkah-3",
+      "khi-1991:pasal-148"
+     ]
+    },
+    {
+     "qid": "peradilan-005",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.4632423659320675,
+     "top10": [
+      "uu-7-1989:pasal-73",
+      "pp-9-1975:pasal-20",
+      "khi-1991:pasal-132",
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-26",
+      "khi-1991:pasal-138",
+      "uu-7-1989:pasal-84",
+      "prosedur-cerai-gugat:langkah-2",
+      "uu-7-1989:pasal-67",
+      "khi-1991:pasal-148"
+     ]
+    },
+    {
+     "qid": "peradilan-006",
+     "recall@5": 0.4,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.45824474400474136,
+     "top10": [
+      "perma-1-2016:pasal-6",
+      "uu-7-1989:pasal-82",
+      "perma-1-2016:pasal-32",
+      "perma-1-2016:pasal-21",
+      "perma-1-2016:pasal-3",
+      "perma-1-2016:pasal-7",
+      "perma-1-2016:pasal-4:ayat-2",
+      "perma-1-2016:pasal-1",
+      "perma-1-2016:pasal-11",
+      "perma-1-2016:pasal-23"
+     ]
+    },
+    {
+     "qid": "peradilan-007",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.39106560501896365,
+     "top10": [
+      "perma-1-2016:pasal-1",
+      "perma-1-2016:pasal-3",
+      "perma-1-2016:pasal-24",
+      "perma-1-2016:pasal-35",
+      "perma-1-2016:pasal-2",
+      "perma-1-2016:pasal-11",
+      "perma-1-2016:pasal-5",
+      "perma-1-2016:pasal-31",
+      "perma-1-2016:pasal-36",
+      "perma-1-2016:pasal-20"
+     ]
+    },
+    {
+     "qid": "peradilan-008",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8503449055347546,
+     "top10": [
+      "perma-1-2016:pasal-7",
+      "perma-1-2016:pasal-32",
+      "perma-1-2016:pasal-6",
+      "perma-1-2016:pasal-4:ayat-2",
+      "perma-1-2016:pasal-22",
+      "perma-1-2016:pasal-23",
+      "perma-1-2016:pasal-35",
+      "pp-9-1975:pasal-27",
+      "perma-1-2016:pasal-17:ayat-7",
+      "perma-1-2016:pasal-21"
+     ]
+    },
+    {
+     "qid": "peradilan-009",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6366824387328317,
+     "top10": [
+      "prosedur-cerai-gugat:langkah-5",
+      "prosedur-cerai-talak:langkah-6",
+      "perma-1-2016:pasal-23",
+      "perma-1-2016:pasal-8",
+      "perma-1-2016:pasal-9",
+      "uu-50-2009:pasal-91a",
+      "quran:2:237",
+      "quran:4:25",
+      "perma-1-2016:pasal-11",
+      "prosedur-cerai-gugat:langkah-1"
+     ]
+    },
+    {
+     "qid": "peradilan-010",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.44149241373678083,
+     "top10": [
+      "uu-7-1989:pasal-78",
+      "prosedur-cerai-gugat:langkah-5",
+      "uu-7-1989:pasal-89",
+      "uu-1-1974:pasal-41",
+      "pp-9-1975:pasal-24",
+      "khi-1991:pasal-136",
+      "uu-7-1989:pasal-73",
+      "uu-7-1989:pasal-86",
+      "prosedur-cerai-gugat:langkah-4",
+      "perma-1-2016:pasal-9"
+     ]
+    },
+    {
+     "qid": "peradilan-011",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8772153153380493,
+     "top10": [
+      "prosedur-waris:bagian-1",
+      "khi-1991:pasal-188",
+      "prosedur-cerai-talak:langkah-1",
+      "prosedur-waris:bagian-2",
+      "uu-7-1989:pasal-49",
+      "uu-3-2006:pasal-45",
+      "uu-7-1989:pasal-45",
+      "uu-3-2006:pasal-27",
+      "uu-50-2009:pasal-45",
+      "uu-7-1989:pasal-13"
+     ]
+    },
+    {
+     "qid": "peradilan-012",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.7653606369886217,
+     "top10": [
+      "uu-7-1989:pasal-84",
+      "khi-1991:pasal-147",
+      "pp-9-1975:pasal-36",
+      "uu-7-1989:pasal-80",
+      "pp-9-1975:pasal-34",
+      "uu-7-1989:pasal-68",
+      "pp-9-1975:pasal-26",
+      "khi-1991:pasal-69",
+      "khi-1991:pasal-169",
+      "khi-1991:pasal-7"
+     ]
+    },
+    {
+     "qid": "peradilan-013",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-131",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-71",
+      "khi-1991:pasal-117",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-167",
+      "khi-1991:pasal-129",
+      "khi-1991:pasal-169",
+      "hadith:hadeethenc:58149"
+     ]
+    },
+    {
+     "qid": "peradilan-014",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8710785440003369,
+     "top10": [
+      "uu-7-1989:pasal-63",
+      "khi-1991:pasal-130",
+      "uu-7-1989:pasal-51",
+      "uu-7-1989:pasal-3",
+      "uu-3-2006:pasal-4",
+      "uu-7-1989:pasal-61",
+      "khi-1991:pasal-188",
+      "uu-50-2009:pasal-1",
+      "uu-7-1989:pasal-4",
+      "uu-7-1989:pasal-6"
+     ]
+    },
+    {
+     "qid": "peradilan-015",
+     "recall@5": 0.4,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6739577727076379,
+     "top10": [
+      "uu-7-1989:pasal-86",
+      "prosedur-cerai-gugat:langkah-4",
+      "uu-7-1989:pasal-78",
+      "pp-9-1975:pasal-24",
+      "khi-1991:pasal-136",
+      "prosedur-cerai-talak:langkah-5",
+      "khi-1991:pasal-96",
+      "uu-7-1989:pasal-73",
+      "uu-7-1989:pasal-77",
+      "khi-1991:pasal-188"
+     ]
+    }
+   ]
+  },
+  "hybrid": {
+   "n": 80,
+   "recall@5": 0.4279,
+   "mrr@10": 0.5489,
+   "ndcg@10": 0.4737,
+   "per_question": [
+    {
+     "qid": "cerai-001",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.5375811193822124,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-116",
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-133",
+      "uu-7-1989:pasal-67",
+      "uu-7-1989:pasal-87",
+      "uu-1-1974:pasal-5",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-84",
+      "khi-1991:pasal-96"
+     ]
+    },
+    {
+     "qid": "cerai-002",
+     "recall@5": 0.5,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.45749452618986164,
+     "top10": [
+      "uu-7-1989:pasal-67",
+      "hadith:hadeethenc:5821",
+      "uu-7-1989:pasal-87",
+      "khi-1991:pasal-116",
+      "khi-1991:pasal-96",
+      "uu-1-1974:pasal-10",
+      "hadith:hadeethenc:58151",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-86",
+      "uu-7-1989:pasal-66"
+     ]
+    },
+    {
+     "qid": "cerai-003",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.2622073738811406,
+     "top10": [
+      "khi-1991:pasal-131",
+      "uu-1-1974:pasal-10",
+      "uu-7-1989:pasal-87",
+      "uu-50-2009:pasal-38a",
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-16",
+      "pp-9-1975:pasal-19",
+      "khi-1991:pasal-148",
+      "khi-1991:pasal-95"
+     ]
+    },
+    {
+     "qid": "cerai-004",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9828920819566879,
+     "top10": [
+      "khi-1991:pasal-135",
+      "pp-9-1975:pasal-23",
+      "khi-1991:pasal-116",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-74",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-84",
+      "uu-7-1989:pasal-67",
+      "khi-1991:pasal-8",
+      "prosedur-cerai-talak:langkah-5"
+     ]
+    },
+    {
+     "qid": "cerai-005",
+     "recall@5": 0.0,
+     "mrr@10": 0.14285714285714285,
+     "ndcg@10": 0.3333333333333333,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "uu-1-1974:pasal-10",
+      "hadith:hadeethenc:58082",
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:6046",
+      "pp-9-1975:pasal-14",
+      "khi-1991:pasal-116",
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-80",
+      "khi-1991:pasal-79"
+     ]
+    },
+    {
+     "qid": "cerai-006",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.2,
+     "ndcg@10": 0.3379680345449381,
+     "top10": [
+      "hadith:hadeethenc:6020",
+      "khi-1991:pasal-1",
+      "quran:2:230",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-116",
+      "quran:65:7",
+      "khi-1991:pasal-46",
+      "khi-1991:pasal-149",
+      "hadith:hadeethenc:6046",
+      "khi-1991:pasal-27"
+     ]
+    },
+    {
+     "qid": "cerai-007",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.617319681505689,
+     "top10": [
+      "khi-1991:pasal-116",
+      "uu-7-1989:pasal-67",
+      "khi-1991:pasal-96",
+      "hadith:hadeethenc:58151",
+      "uu-1-1974:pasal-10",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-86",
+      "pp-9-1975:pasal-19",
+      "pp-9-1975:pasal-41",
+      "khi-1991:pasal-135"
+     ]
+    },
+    {
+     "qid": "cerai-008",
+     "recall@5": 0.5,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.3065735963827292,
+     "top10": [
+      "khi-1991:pasal-95",
+      "pp-9-1975:pasal-41",
+      "khi-1991:pasal-116",
+      "hadith:hadeethenc:58140",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "hadith:hadeethenc:6046",
+      "hadith:hadeethenc:58078",
+      "hadith:hadeethenc:58082",
+      "uu-7-1989:pasal-70"
+     ]
+    },
+    {
+     "qid": "cerai-009",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.13905617951077562,
+     "top10": [
+      "hadith:hadeethenc:6024",
+      "quran:2:230",
+      "hadith:hadeethenc:6025",
+      "hadith:hadeethenc:3049",
+      "uu-7-1989:pasal-70",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-76",
+      "khi-1991:pasal-147",
+      "hadith:hadeethenc:58175",
+      "pp-9-1975:pasal-23"
+     ]
+    },
+    {
+     "qid": "cerai-010",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58140",
+      "hadith:hadeethenc:58151",
+      "quran:65:1",
+      "hadith:hadeethenc:5827",
+      "quran:33:49",
+      "khi-1991:pasal-147",
+      "uu-1-1974:pasal-10",
+      "quran:2:237",
+      "pp-9-1975:pasal-19",
+      "hadith:hadeethenc:58078"
+     ]
+    },
+    {
+     "qid": "cerai-011",
+     "recall@5": 0.2,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.32703966649239957,
+     "top10": [
+      "hadith:hadeethenc:58138",
+      "hadith:hadeethenc:58078",
+      "khi-1991:pasal-46",
+      "hadith:hadeethenc:58140",
+      "khi-1991:pasal-70",
+      "khi-1991:pasal-163",
+      "khi-1991:pasal-120",
+      "hadith:hadeethenc:8286",
+      "hadith:hadeethenc:58168",
+      "hadith:hadeethenc:5827"
+     ]
+    },
+    {
+     "qid": "cerai-012",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5855700749881525,
+     "top10": [
+      "hadith:hadeethenc:5827",
+      "hadith:hadeethenc:58168",
+      "khi-1991:pasal-122",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-131",
+      "hadith:hadeethenc:58149",
+      "uu-7-1989:pasal-68",
+      "hadith:hadeethenc:58134",
+      "khi-1991:pasal-129",
+      "hadith:hadeethenc:58165"
+     ]
+    },
+    {
+     "qid": "cerai-013",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-153",
+      "quran:2:228",
+      "pp-9-1975:pasal-39",
+      "hadith:hadeethenc:5827",
+      "quran:65:4",
+      "hadith:hadeethenc:6086",
+      "hadith:hadeethenc:58165",
+      "hadith:hadeethenc:58082",
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58161"
+     ]
+    },
+    {
+     "qid": "cerai-014",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:6046",
+      "hadith:hadeethenc:58078",
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:6089",
+      "quran:2:232",
+      "quran:2:226",
+      "hadith:hadeethenc:58076",
+      "quran:2:230",
+      "hadith:hadeethenc:6086"
+     ]
+    },
+    {
+     "qid": "cerai-015",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.7039180890341347,
+     "top10": [
+      "khi-1991:pasal-153",
+      "hadith:hadeethenc:6046",
+      "quran:65:4",
+      "hadith:hadeethenc:5827",
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-154",
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58166",
+      "khi-1991:pasal-12",
+      "hadith:hadeethenc:58167"
+     ]
+    },
+    {
+     "qid": "cerai-016",
+     "recall@5": 0.4,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.3156484524795145,
+     "top10": [
+      "hadith:hadeethenc:58106",
+      "quran:2:236",
+      "khi-1991:pasal-153",
+      "quran:2:237",
+      "hadith:hadeethenc:58168",
+      "hadith:hadeethenc:58161",
+      "hadith:hadeethenc:5863",
+      "khi-1991:pasal-149",
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-38"
+     ]
+    },
+    {
+     "qid": "cerai-017",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:2:228",
+      "hadith:hadeethenc:58151",
+      "uu-7-1989:pasal-78",
+      "uu-7-1989:pasal-66",
+      "hadith:hadeethenc:58082",
+      "khi-1991:pasal-79",
+      "pp-9-1975:pasal-24",
+      "uu-1-1974:pasal-31",
+      "hadith:hadeethenc:58093",
+      "khi-1991:pasal-136"
+     ]
+    },
+    {
+     "qid": "cerai-018",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.44149241373678083,
+     "top10": [
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-160",
+      "quran:2:236",
+      "quran:2:241",
+      "hadith:hadeethenc:58076",
+      "khi-1991:pasal-38",
+      "hadith:hadeethenc:58075",
+      "khi-1991:pasal-1",
+      "hadith:hadeethenc:58078",
+      "quran:33:49"
+     ]
+    },
+    {
+     "qid": "cerai-019",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.43734888382569426,
+     "top10": [
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-152",
+      "hadith:hadeethenc:6020",
+      "quran:2:240",
+      "khi-1991:pasal-150",
+      "hadith:hadeethenc:58168",
+      "khi-1991:pasal-70",
+      "hadith:hadeethenc:58165",
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-153"
+     ]
+    },
+    {
+     "qid": "cerai-020",
+     "recall@5": 0.75,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6096199500078984,
+     "top10": [
+      "hadith:hadeethenc:58190",
+      "hadith:hadeethenc:58189",
+      "khi-1991:pasal-156",
+      "khi-1991:pasal-105",
+      "khi-1991:pasal-70",
+      "quran:4:130",
+      "prosedur-cerai-gugat:langkah-4",
+      "hadith:hadeethenc:58060",
+      "uu-1-1974:pasal-47",
+      "hadith:hadeethenc:58153"
+     ]
+    },
+    {
+     "qid": "cerai-021",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.7668091220635322,
+     "top10": [
+      "hadith:hadeethenc:58190",
+      "uu-1-1974:pasal-41",
+      "uu-7-1989:pasal-78",
+      "quran:4:11",
+      "uu-1-1974:pasal-47",
+      "uu-1-1974:pasal-43",
+      "khi-1991:pasal-105",
+      "hadith:hadeethenc:58100",
+      "hadith:hadeethenc:58175",
+      "uu-1-1974:pasal-51"
+     ]
+    },
+    {
+     "qid": "cerai-022",
+     "recall@5": 0.6,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6504460199135362,
+     "top10": [
+      "khi-1991:pasal-80",
+      "khi-1991:pasal-105",
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-156",
+      "khi-1991:pasal-104",
+      "uu-1-1974:pasal-41",
+      "quran:2:233",
+      "hadith:hadeethenc:58190",
+      "hadith:hadeethenc:58151",
+      "prosedur-cerai-talak:langkah-5"
+     ]
+    },
+    {
+     "qid": "cerai-023",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.38685280723454163,
+     "top10": [
+      "hadith:hadeethenc:58190",
+      "khi-1991:pasal-156",
+      "hadith:hadeethenc:58191",
+      "uu-7-1989:pasal-78",
+      "khi-1991:pasal-105",
+      "hadith:hadeethenc:58093",
+      "quran:2:240",
+      "quran:4:12",
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:58175"
+     ]
+    },
+    {
+     "qid": "cerai-024",
+     "recall@5": 0.2,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.4599715079731103,
+     "top10": [
+      "hadith:hadeethenc:58149",
+      "hadith:hadeethenc:8286",
+      "hadith:hadeethenc:58140",
+      "hadith:hadeethenc:58078",
+      "khi-1991:pasal-131",
+      "khi-1991:pasal-167",
+      "khi-1991:pasal-129",
+      "uu-7-1989:pasal-70",
+      "quran:2:230",
+      "hadith:hadeethenc:6089"
+     ]
+    },
+    {
+     "qid": "cerai-025",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58078",
+      "hadith:hadeethenc:58076",
+      "uu-1-1974:pasal-10",
+      "khi-1991:pasal-119",
+      "khi-1991:pasal-59",
+      "khi-1991:pasal-167",
+      "quran:2:229",
+      "pp-9-1975:pasal-41",
+      "khi-1991:pasal-84",
+      "khi-1991:pasal-120"
+     ]
+    },
+    {
+     "qid": "cerai-026",
+     "recall@5": 0.2,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.16958010263680806,
+     "top10": [
+      "quran:2:237",
+      "quran:4:128",
+      "quran:2:229",
+      "hadith:hadeethenc:6045",
+      "quran:2:236",
+      "hadith:hadeethenc:6983",
+      "hadith:hadeethenc:58104",
+      "quran:5:108",
+      "khi-1991:pasal-38",
+      "quran:2:235"
+     ]
+    },
+    {
+     "qid": "cerai-027",
+     "recall@5": 0.4,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.48522855511632257,
+     "top10": [
+      "hadith:hadeethenc:6024",
+      "hadith:hadeethenc:6025",
+      "uu-7-1989:pasal-41",
+      "khi-1991:pasal-126",
+      "khi-1991:pasal-102",
+      "hadith:hadeethenc:6045",
+      "hadith:hadeethenc:58100",
+      "khi-1991:pasal-116",
+      "hadith:hadeethenc:58174",
+      "hadith:hadeethenc:58189"
+     ]
+    },
+    {
+     "qid": "cerai-028",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "hadith:hadeethenc:58189",
+      "pp-9-1975:pasal-24",
+      "khi-1991:pasal-136",
+      "khi-1991:pasal-79",
+      "khi-1991:pasal-96",
+      "uu-1-1974:pasal-31",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-48",
+      "hadith:hadeethenc:58168",
+      "uu-1-1974:pasal-41"
+     ]
+    },
+    {
+     "qid": "cerai-029",
+     "recall@5": 0.2,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.26687965254220064,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "uu-1-1974:pasal-10",
+      "khi-1991:pasal-96",
+      "khi-1991:pasal-95",
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-92",
+      "hadith:hadeethenc:58157",
+      "hadith:hadeethenc:6025",
+      "quran:2:231",
+      "prosedur-cerai-talak:langkah-5"
+     ]
+    },
+    {
+     "qid": "cerai-030",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "uu-1-1974:pasal-27",
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-72",
+      "hadith:hadeethenc:58165",
+      "khi-1991:pasal-131",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-149",
+      "uu-7-1989:pasal-86",
+      "uu-7-1989:pasal-82"
+     ]
+    },
+    {
+     "qid": "cerai-031",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:4:11",
+      "hadith:hadeethenc:58100",
+      "uu-1-1974:pasal-31",
+      "khi-1991:pasal-102",
+      "hadith:hadeethenc:6025",
+      "khi-1991:pasal-92",
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:6046",
+      "hadith:hadeethenc:58174",
+      "hadith:hadeethenc:58151"
+     ]
+    },
+    {
+     "qid": "cerai-032",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6366824387328317,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58153",
+      "hadith:hadeethenc:6046",
+      "uu-7-1989:pasal-41",
+      "khi-1991:pasal-127",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-37",
+      "uu-7-1989:pasal-16",
+      "uu-7-1989:pasal-37",
+      "uu-3-2006:pasal-48"
+     ]
+    },
+    {
+     "qid": "cerai-033",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8048099750039491,
+     "top10": [
+      "khi-1991:pasal-170",
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-81",
+      "hadith:hadeethenc:6086",
+      "hadith:hadeethenc:6046",
+      "khi-1991:pasal-12",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-151",
+      "khi-1991:pasal-42",
+      "hadith:hadeethenc:58168"
+     ]
+    },
+    {
+     "qid": "cerai-034",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9060254355346823,
+     "top10": [
+      "uu-7-1989:pasal-79",
+      "pp-9-1975:pasal-39",
+      "pp-9-1975:pasal-25",
+      "khi-1991:pasal-137",
+      "khi-1991:pasal-153",
+      "khi-1991:pasal-96",
+      "uu-7-1989:pasal-87",
+      "khi-1991:pasal-97",
+      "hadith:hadeethenc:6046",
+      "khi-1991:pasal-35"
+     ]
+    },
+    {
+     "qid": "cerai-035",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "pp-9-1975:pasal-39",
+      "khi-1991:pasal-153",
+      "uu-7-1989:pasal-70",
+      "hadith:hadeethenc:58151",
+      "uu-7-1989:pasal-68",
+      "perma-1-2016:pasal-34",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-84",
+      "hadith:hadeethenc:58168",
+      "uu-7-1989:pasal-71"
+     ]
+    },
+    {
+     "qid": "waris-001",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5413996682199069,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-182",
+      "quran:4:12",
+      "khi-1991:pasal-176",
+      "khi-1991:pasal-178",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-174",
+      "quran:4:176",
+      "quran:4:23"
+     ]
+    },
+    {
+     "qid": "waris-002",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8175295903539445,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-182",
+      "quran:4:12",
+      "hadith:hadeethenc:6035",
+      "quran:4:176",
+      "khi-1991:pasal-176",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:10986",
+      "quran:4:7"
+     ]
+    },
+    {
+     "qid": "waris-003",
+     "recall@5": 0.2,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.4371994911049732,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-181",
+      "quran:4:176",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-182",
+      "quran:4:7",
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-177",
+      "hadith:hadeethenc:5887"
+     ]
+    },
+    {
+     "qid": "waris-004",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8175295903539445,
+     "top10": [
+      "quran:4:12",
+      "quran:4:11",
+      "khi-1991:pasal-177",
+      "hadith:hadeethenc:2965",
+      "khi-1991:pasal-181",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-180",
+      "khi-1991:pasal-179",
+      "quran:4:176",
+      "khi-1991:pasal-178"
+     ]
+    },
+    {
+     "qid": "waris-005",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "quran:4:12",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-181",
+      "quran:4:11",
+      "khi-1991:pasal-77",
+      "khi-1991:pasal-176",
+      "hadith:hadeethenc:5822",
+      "khi-1991:pasal-178",
+      "hadith:hadeethenc:58166"
+     ]
+    },
+    {
+     "qid": "waris-006",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.2960819109658652,
+     "top10": [
+      "quran:4:12",
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-105",
+      "hadith:hadeethenc:58082",
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:58189",
+      "khi-1991:pasal-182",
+      "hadith:hadeethenc:6046",
+      "khi-1991:pasal-156"
+     ]
+    },
+    {
+     "qid": "waris-007",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.23463936301137822,
+     "top10": [
+      "khi-1991:pasal-181",
+      "quran:4:12",
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-104",
+      "khi-1991:pasal-156",
+      "quran:2:233",
+      "khi-1991:pasal-177"
+     ]
+    },
+    {
+     "qid": "waris-008",
+     "recall@5": 1.0,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.5012658353418871,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "quran:4:12",
+      "khi-1991:pasal-178",
+      "hadith:hadeethenc:5887",
+      "quran:4:176",
+      "khi-1991:pasal-177",
+      "quran:2:233"
+     ]
+    },
+    {
+     "qid": "waris-009",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8315546295836225,
+     "top10": [
+      "khi-1991:pasal-182",
+      "quran:4:7",
+      "khi-1991:pasal-181",
+      "quran:4:11",
+      "quran:4:23",
+      "quran:4:176",
+      "quran:4:12",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-156"
+     ]
+    },
+    {
+     "qid": "waris-010",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8772153153380493,
+     "top10": [
+      "khi-1991:pasal-182",
+      "quran:4:11",
+      "quran:4:12",
+      "quran:4:176",
+      "quran:4:23",
+      "khi-1991:pasal-176",
+      "quran:4:7",
+      "khi-1991:pasal-181",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-21"
+     ]
+    },
+    {
+     "qid": "waris-011",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.46927872602275644,
+     "top10": [
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-174",
+      "quran:4:12",
+      "quran:4:176",
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-178",
+      "khi-1991:pasal-94",
+      "khi-1991:pasal-176"
+     ]
+    },
+    {
+     "qid": "waris-012",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-174",
+      "quran:4:176",
+      "quran:4:12",
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-187",
+      "quran:4:7",
+      "khi-1991:pasal-191",
+      "hadith:hadeethenc:8370",
+      "khi-1991:pasal-188"
+     ]
+    },
+    {
+     "qid": "waris-013",
+     "recall@5": 0.0,
+     "mrr@10": 0.14285714285714285,
+     "ndcg@10": 0.3333333333333333,
+     "top10": [
+      "khi-1991:pasal-174",
+      "quran:4:11",
+      "hadith:hadeethenc:5887",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-211",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-185",
+      "quran:4:12",
+      "khi-1991:pasal-188",
+      "khi-1991:pasal-189"
+     ]
+    },
+    {
+     "qid": "waris-014",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6240505200038379,
+     "top10": [
+      "hadith:hadeethenc:8370",
+      "khi-1991:pasal-173",
+      "quran:4:11",
+      "khi-1991:pasal-156",
+      "khi-1991:pasal-171",
+      "hadith:hadeethenc:5887",
+      "hadith:hadeethenc:6035",
+      "quran:4:12",
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:58106"
+     ]
+    },
+    {
+     "qid": "waris-015",
+     "recall@5": 0.0,
+     "mrr@10": 0.14285714285714285,
+     "ndcg@10": 0.2532778777010656,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-178",
+      "khi-1991:pasal-188",
+      "hadith:hadeethenc:64716",
+      "hadith:hadeethenc:64718",
+      "quran:4:12",
+      "hadith:hadeethenc:10986"
+     ]
+    },
+    {
+     "qid": "waris-016",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-209",
+      "khi-1991:pasal-171",
+      "quran:4:11",
+      "quran:4:12",
+      "uu-1-1974:pasal-51",
+      "khi-1991:pasal-156",
+      "hadith:hadeethenc:58106",
+      "khi-1991:pasal-106",
+      "khi-1991:pasal-108",
+      "hadith:hadeethenc:58166"
+     ]
+    },
+    {
+     "qid": "waris-017",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:4:6",
+      "khi-1991:pasal-171",
+      "quran:4:7",
+      "quran:4:176",
+      "khi-1991:pasal-106",
+      "quran:4:12",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-111",
+      "khi-1991:pasal-209",
+      "uu-1-1974:pasal-51"
+     ]
+    },
+    {
+     "qid": "waris-018",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.2,
+     "ndcg@10": 0.3295827480202853,
+     "top10": [
+      "hadith:hadeethenc:5831",
+      "hadith:hadeethenc:8370",
+      "quran:4:11",
+      "hadith:hadeethenc:6035",
+      "hadith:hadeethenc:5885",
+      "quran:4:12",
+      "khi-1991:pasal-202",
+      "khi-1991:pasal-201",
+      "khi-1991:pasal-197",
+      "khi-1991:pasal-177"
+     ]
+    },
+    {
+     "qid": "waris-019",
+     "recall@5": 0.0,
+     "mrr@10": 0.1,
+     "ndcg@10": 0.17723928678404774,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-209",
+      "uu-1-1974:pasal-51",
+      "uu-1-1974:pasal-49",
+      "khi-1991:pasal-108",
+      "hadith:hadeethenc:5831",
+      "quran:2:240",
+      "quran:2:180",
+      "quran:4:12",
+      "hadith:hadeethenc:8370"
+     ]
+    },
+    {
+     "qid": "waris-020",
+     "recall@5": 0.25,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.5028746730079328,
+     "top10": [
+      "hadith:hadeethenc:5831",
+      "quran:5:106",
+      "khi-1991:pasal-204",
+      "quran:2:240",
+      "khi-1991:pasal-200",
+      "khi-1991:pasal-196",
+      "uu-1-1974:pasal-51",
+      "khi-1991:pasal-199",
+      "khi-1991:pasal-194",
+      "khi-1991:pasal-203"
+     ]
+    },
+    {
+     "qid": "waris-021",
+     "recall@5": 1.0,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.43067655807339306,
+     "top10": [
+      "khi-1991:pasal-204",
+      "khi-1991:pasal-203",
+      "khi-1991:pasal-197",
+      "khi-1991:pasal-199",
+      "khi-1991:pasal-201",
+      "hadith:hadeethenc:5831",
+      "khi-1991:pasal-206",
+      "uu-1-1974:pasal-51",
+      "quran:5:106",
+      "khi-1991:pasal-202"
+     ]
+    },
+    {
+     "qid": "waris-022",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.4525081529734507,
+     "top10": [
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-211",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-181",
+      "hadith:hadeethenc:6035",
+      "khi-1991:pasal-171",
+      "quran:2:233",
+      "khi-1991:pasal-188",
+      "quran:4:11"
+     ]
+    },
+    {
+     "qid": "waris-023",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6309297535714575,
+     "top10": [
+      "hadith:hadeethenc:6035",
+      "khi-1991:pasal-212",
+      "khi-1991:pasal-210",
+      "khi-1991:pasal-108",
+      "hadith:hadeethenc:8286",
+      "quran:4:20",
+      "khi-1991:pasal-211",
+      "uu-16-2019:pasal-7",
+      "khi-1991:pasal-106",
+      "uu-1-1974:pasal-48"
+     ]
+    },
+    {
+     "qid": "waris-024",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-177",
+      "quran:2:233",
+      "hadith:hadeethenc:5885",
+      "uu-1-1974:pasal-51",
+      "quran:4:2",
+      "khi-1991:pasal-209",
+      "quran:4:176",
+      "khi-1991:pasal-149"
+     ]
+    },
+    {
+     "qid": "waris-025",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-188",
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:10986",
+      "hadith:hadeethenc:5887",
+      "uu-1-1974:pasal-35",
+      "khi-1991:pasal-187",
+      "khi-1991:pasal-189",
+      "quran:4:12",
+      "khi-1991:pasal-87"
+     ]
+    },
+    {
+     "qid": "waris-026",
+     "recall@5": 0.0,
+     "mrr@10": 0.1111111111111111,
+     "ndcg@10": 0.14126697285982898,
+     "top10": [
+      "khi-1991:pasal-93",
+      "quran:2:229",
+      "quran:4:11",
+      "quran:4:12",
+      "hadith:hadeethenc:58125",
+      "hadith:hadeethenc:58168",
+      "khi-1991:pasal-82",
+      "khi-1991:pasal-87",
+      "khi-1991:pasal-94",
+      "hadith:hadeethenc:58082"
+     ]
+    },
+    {
+     "qid": "waris-027",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-189",
+      "khi-1991:pasal-182",
+      "quran:4:11",
+      "hadith:hadeethenc:10986",
+      "hadith:hadeethenc:6027",
+      "hadith:hadeethenc:5813",
+      "quran:4:12",
+      "uu-1-1974:pasal-14",
+      "khi-1991:pasal-62",
+      "quran:4:176"
+     ]
+    },
+    {
+     "qid": "waris-028",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:4:176",
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:58106",
+      "quran:4:23",
+      "hadith:hadeethenc:5887",
+      "quran:4:12",
+      "hadith:hadeethenc:6090",
+      "khi-1991:pasal-182",
+      "quran:4:7"
+     ]
+    },
+    {
+     "qid": "waris-029",
+     "recall@5": 0.0,
+     "mrr@10": 0.125,
+     "ndcg@10": 0.31546487678572877,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-171",
+      "hadith:hadeethenc:5885",
+      "quran:4:12",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-46",
+      "khi-1991:pasal-191",
+      "quran:4:13",
+      "khi-1991:pasal-62"
+     ]
+    },
+    {
+     "qid": "waris-030",
+     "recall@5": 0.75,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.6444638628256741,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-182",
+      "hadith:hadeethenc:5887",
+      "quran:4:176",
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:6035",
+      "hadith:hadeethenc:10986"
+     ]
+    },
+    {
+     "qid": "peradilan-001",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "khi-1991:pasal-188",
+      "uu-3-2006:pasal-50",
+      "quran:4:11",
+      "hadith:hadeethenc:64718",
+      "hadith:hadeethenc:5887",
+      "uu-3-2006:pasal-13",
+      "hadith:hadeethenc:64716",
+      "prosedur-cerai-gugat:langkah-2",
+      "uu-50-2009:pasal-1",
+      "prosedur-cerai-talak:langkah-3"
+     ]
+    },
+    {
+     "qid": "peradilan-002",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6797310500037655,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-132",
+      "uu-7-1989:pasal-77",
+      "uu-7-1989:pasal-73",
+      "prosedur-cerai-gugat:langkah-2",
+      "uu-1-1974:pasal-10",
+      "uu-3-2006:pasal-16",
+      "uu-7-1989:pasal-67",
+      "khi-1991:pasal-136",
+      "uu-3-2006:pasal-48"
+     ]
+    },
+    {
+     "qid": "peradilan-003",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.46927872602275644,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-77",
+      "hadith:hadeethenc:58082",
+      "quran:2:232",
+      "pp-9-1975:pasal-14",
+      "hadith:hadeethenc:58083",
+      "hadith:hadeethenc:58093",
+      "quran:65:6",
+      "hadith:hadeethenc:58165",
+      "quran:2:236"
+     ]
+    },
+    {
+     "qid": "peradilan-004",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.5101671483174705,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-82",
+      "uu-7-1989:pasal-84",
+      "pp-9-1975:pasal-20",
+      "uu-7-1989:pasal-73",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-132",
+      "hadith:hadeethenc:58164",
+      "uu-7-1989:pasal-68",
+      "prosedur-cerai-gugat:langkah-2"
+     ]
+    },
+    {
+     "qid": "peradilan-005",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.16716045496620227,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-102",
+      "pp-9-1975:pasal-41",
+      "khi-1991:pasal-131",
+      "uu-1-1974:pasal-10",
+      "pp-9-1975:pasal-20",
+      "uu-7-1989:pasal-70",
+      "uu-7-1989:pasal-67",
+      "uu-7-1989:pasal-84",
+      "uu-1-1974:pasal-34"
+     ]
+    },
+    {
+     "qid": "peradilan-006",
+     "recall@5": 0.2,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.559206739398752,
+     "top10": [
+      "uu-7-1989:pasal-82",
+      "perma-1-2016:pasal-32",
+      "perma-1-2016:pasal-7",
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-142",
+      "pp-9-1975:pasal-30",
+      "perma-1-2016:pasal-17:ayat-1",
+      "perma-1-2016:pasal-3",
+      "perma-1-2016:pasal-23",
+      "perma-1-2016:pasal-35"
+     ]
+    },
+    {
+     "qid": "peradilan-007",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.5239472913541398,
+     "top10": [
+      "perma-1-2016:pasal-2",
+      "perma-1-2016:pasal-1",
+      "perma-1-2016:pasal-5",
+      "perma-1-2016:pasal-3",
+      "perma-1-2016:pasal-11",
+      "uu-50-2009:pasal-13a",
+      "perma-1-2016:pasal-35",
+      "perma-1-2016:pasal-6",
+      "perma-1-2016:pasal-24",
+      "uu-3-2006:pasal-16"
+     ]
+    },
+    {
+     "qid": "peradilan-008",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "perma-1-2016:pasal-22",
+      "perma-1-2016:pasal-7",
+      "perma-1-2016:pasal-23",
+      "perma-1-2016:pasal-1",
+      "perma-1-2016:pasal-29",
+      "pp-9-1975:pasal-27",
+      "khi-1991:pasal-138",
+      "perma-1-2016:pasal-14",
+      "perma-1-2016:pasal-21",
+      "hadith:hadeethenc:58174"
+     ]
+    },
+    {
+     "qid": "peradilan-009",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6366824387328317,
+     "top10": [
+      "prosedur-cerai-talak:langkah-6",
+      "prosedur-cerai-gugat:langkah-5",
+      "perma-1-2016:pasal-23",
+      "uu-50-2009:pasal-91a",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-90",
+      "uu-3-2006:pasal-90",
+      "perma-1-2016:pasal-1",
+      "uu-7-1989:pasal-91",
+      "khi-1991:pasal-189"
+     ]
+    },
+    {
+     "qid": "peradilan-010",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6620727130989752,
+     "top10": [
+      "perma-1-2016:pasal-23",
+      "uu-3-2006:pasal-90",
+      "uu-7-1989:pasal-90",
+      "prosedur-cerai-gugat:langkah-5",
+      "uu-7-1989:pasal-91",
+      "prosedur-cerai-talak:langkah-6",
+      "uu-50-2009:pasal-91a",
+      "prosedur-cerai-gugat:langkah-1",
+      "uu-7-1989:pasal-89",
+      "uu-1-1974:pasal-41"
+     ]
+    },
+    {
+     "qid": "peradilan-011",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.5714285040141098,
+     "top10": [
+      "khi-1991:pasal-175",
+      "prosedur-waris:bagian-1",
+      "khi-1991:pasal-188",
+      "khi-1991:pasal-174",
+      "uu-7-1989:pasal-49",
+      "hadith:hadeethenc:5887",
+      "quran:2:233",
+      "uu-3-2006:pasal-27",
+      "prosedur-waris:bagian-2",
+      "uu-50-2009:pasal-45"
+     ]
+    },
+    {
+     "qid": "peradilan-012",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8385465274895063,
+     "top10": [
+      "uu-7-1989:pasal-84",
+      "uu-7-1989:pasal-68",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-147",
+      "khi-1991:pasal-169",
+      "khi-1991:pasal-8",
+      "khi-1991:pasal-96",
+      "khi-1991:pasal-7",
+      "prosedur-cerai-talak:langkah-5",
+      "uu-7-1989:pasal-86"
+     ]
+    },
+    {
+     "qid": "peradilan-013",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-131",
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-117",
+      "uu-7-1989:pasal-71",
+      "khi-1991:pasal-167",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-129",
+      "khi-1991:pasal-169",
+      "khi-1991:pasal-119"
+     ]
+    },
+    {
+     "qid": "peradilan-014",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.38364913903790027,
+     "top10": [
+      "uu-50-2009:pasal-14",
+      "uu-3-2006:pasal-14",
+      "uu-50-2009:pasal-38a",
+      "uu-7-1989:pasal-63",
+      "uu-7-1989:pasal-51",
+      "khi-1991:pasal-156",
+      "uu-50-2009:pasal-1",
+      "uu-3-2006:pasal-41",
+      "uu-3-2006:pasal-16",
+      "uu-7-1989:pasal-86"
+     ]
+    },
+    {
+     "qid": "peradilan-015",
+     "recall@5": 0.8,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8539316501572937,
+     "top10": [
+      "uu-7-1989:pasal-86",
+      "prosedur-cerai-talak:langkah-5",
+      "prosedur-cerai-gugat:langkah-4",
+      "khi-1991:pasal-96",
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-24",
+      "uu-7-1989:pasal-78",
+      "prosedur-cerai-gugat:langkah-2",
+      "khi-1991:pasal-188",
+      "prosedur-cerai-gugat:langkah-1"
+     ]
+    }
+   ]
+  },
+  "hybrid_rerank": {
+   "n": 80,
+   "recall@5": 0.6006,
+   "mrr@10": 0.702,
+   "ndcg@10": 0.6371,
+   "per_question": [
+    {
+     "qid": "cerai-001",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9558295932317544,
+     "top10": [
+      "pp-9-1975:pasal-21",
+      "khi-1991:pasal-133",
+      "uu-1-1974:pasal-5",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-67",
+      "uu-7-1989:pasal-68",
+      "uu-7-1989:pasal-73",
+      "khi-1991:pasal-132"
+     ]
+    },
+    {
+     "qid": "cerai-002",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-67",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-70",
+      "uu-1-1974:pasal-39",
+      "uu-7-1989:pasal-86",
+      "uu-7-1989:pasal-76",
+      "uu-7-1989:pasal-65",
+      "uu-7-1989:pasal-75"
+     ]
+    },
+    {
+     "qid": "cerai-003",
+     "recall@5": 0.25,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.31834121936641585,
+     "top10": [
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-131",
+      "khi-1991:pasal-134",
+      "pp-9-1975:pasal-16",
+      "khi-1991:pasal-115",
+      "khi-1991:pasal-148",
+      "uu-1-1974:pasal-39",
+      "khi-1991:pasal-116",
+      "khi-1991:pasal-8",
+      "khi-1991:pasal-136"
+     ]
+    },
+    {
+     "qid": "cerai-004",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9550236580992475,
+     "top10": [
+      "uu-7-1989:pasal-74",
+      "khi-1991:pasal-135",
+      "pp-9-1975:pasal-23",
+      "uu-7-1989:pasal-84",
+      "uu-7-1989:pasal-87",
+      "khi-1991:pasal-147",
+      "pp-9-1975:pasal-19",
+      "khi-1991:pasal-116",
+      "uu-7-1989:pasal-68",
+      "uu-7-1989:pasal-67"
+     ]
+    },
+    {
+     "qid": "cerai-005",
+     "recall@5": 1.0,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.43067655807339306,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-14",
+      "khi-1991:pasal-136",
+      "khi-1991:pasal-116",
+      "khi-1991:pasal-148",
+      "uu-7-1989:pasal-67",
+      "uu-1-1974:pasal-10",
+      "hadith:hadeethenc:58151",
+      "quran:2:230",
+      "quran:65:1"
+     ]
+    },
+    {
+     "qid": "cerai-006",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.4776237035032179,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-116",
+      "khi-1991:pasal-1",
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-46",
+      "quran:2:240",
+      "khi-1991:pasal-149",
+      "hadith:hadeethenc:58164",
+      "hadith:hadeethenc:6020",
+      "quran:4:130"
+     ]
+    },
+    {
+     "qid": "cerai-007",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "uu-7-1989:pasal-75",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-67",
+      "khi-1991:pasal-135",
+      "khi-1991:pasal-136",
+      "pp-9-1975:pasal-23",
+      "uu-7-1989:pasal-87",
+      "uu-7-1989:pasal-77",
+      "uu-7-1989:pasal-86"
+     ]
+    },
+    {
+     "qid": "cerai-008",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6509209298071326,
+     "top10": [
+      "uu-7-1989:pasal-65",
+      "khi-1991:pasal-116",
+      "khi-1991:pasal-95",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-70",
+      "pp-9-1975:pasal-41",
+      "khi-1991:pasal-109",
+      "uu-7-1989:pasal-86",
+      "khi-1991:pasal-131"
+     ]
+    },
+    {
+     "qid": "cerai-009",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5585075862632192,
+     "top10": [
+      "uu-7-1989:pasal-87",
+      "pp-9-1975:pasal-23",
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "uu-7-1989:pasal-76",
+      "uu-7-1989:pasal-86",
+      "uu-7-1989:pasal-74",
+      "quran:4:130",
+      "khi-1991:pasal-147"
+     ]
+    },
+    {
+     "qid": "cerai-010",
+     "recall@5": 0.0,
+     "mrr@10": 0.125,
+     "ndcg@10": 0.123151194370365,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-147",
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-116",
+      "quran:4:130",
+      "quran:65:1",
+      "quran:4:23",
+      "uu-1-1974:pasal-39",
+      "pp-9-1975:pasal-19",
+      "hadith:hadeethenc:58142"
+     ]
+    },
+    {
+     "qid": "cerai-011",
+     "recall@5": 0.4,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.37937082247795983,
+     "top10": [
+      "hadith:hadeethenc:58138",
+      "hadith:hadeethenc:58076",
+      "hadith:hadeethenc:6020",
+      "hadith:hadeethenc:58078",
+      "khi-1991:pasal-120",
+      "khi-1991:pasal-163",
+      "khi-1991:pasal-70",
+      "hadith:hadeethenc:6089",
+      "quran:2:230",
+      "hadith:hadeethenc:58165"
+     ]
+    },
+    {
+     "qid": "cerai-012",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8048099750039491,
+     "top10": [
+      "hadith:hadeethenc:5827",
+      "khi-1991:pasal-122",
+      "hadith:hadeethenc:58168",
+      "khi-1991:pasal-121",
+      "hadith:hadeethenc:58161",
+      "hadith:hadeethenc:58134",
+      "hadith:hadeethenc:58165",
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58149",
+      "khi-1991:pasal-163"
+     ]
+    },
+    {
+     "qid": "cerai-013",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9674679834891693,
+     "top10": [
+      "khi-1991:pasal-153",
+      "pp-9-1975:pasal-39",
+      "hadith:hadeethenc:5827",
+      "quran:2:228",
+      "uu-1-1974:pasal-11",
+      "hadith:hadeethenc:58161",
+      "quran:65:4",
+      "hadith:hadeethenc:58166",
+      "hadith:hadeethenc:58151",
+      "quran:2:234"
+     ]
+    },
+    {
+     "qid": "cerai-014",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.7328286204777911,
+     "top10": [
+      "hadith:hadeethenc:6046",
+      "pp-9-1975:pasal-39",
+      "khi-1991:pasal-153",
+      "quran:2:234",
+      "quran:2:226",
+      "hadith:hadeethenc:6086",
+      "quran:2:230",
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:58078",
+      "quran:2:232"
+     ]
+    },
+    {
+     "qid": "cerai-015",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.7653606369886217,
+     "top10": [
+      "khi-1991:pasal-153",
+      "quran:65:4",
+      "hadith:hadeethenc:6046",
+      "hadith:hadeethenc:58164",
+      "hadith:hadeethenc:5827",
+      "hadith:hadeethenc:58167",
+      "hadith:hadeethenc:6020",
+      "quran:33:49",
+      "khi-1991:pasal-154",
+      "quran:2:234"
+     ]
+    },
+    {
+     "qid": "cerai-016",
+     "recall@5": 0.2,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.3511007680413272,
+     "top10": [
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:58161",
+      "quran:2:236",
+      "quran:2:237",
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-149",
+      "hadith:hadeethenc:58103",
+      "khi-1991:pasal-153",
+      "hadith:hadeethenc:6020",
+      "quran:33:49"
+     ]
+    },
+    {
+     "qid": "cerai-017",
+     "recall@5": 0.2,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.4412576003965278,
+     "top10": [
+      "khi-1991:pasal-149",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-78",
+      "quran:2:228",
+      "pp-9-1975:pasal-24",
+      "khi-1991:pasal-136",
+      "hadith:hadeethenc:58078",
+      "hadith:hadeethenc:58076",
+      "uu-1-1974:pasal-41",
+      "hadith:hadeethenc:58093"
+     ]
+    },
+    {
+     "qid": "cerai-018",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.644964795055663,
+     "top10": [
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-160",
+      "hadith:hadeethenc:58076",
+      "khi-1991:pasal-1",
+      "khi-1991:pasal-158",
+      "khi-1991:pasal-35",
+      "khi-1991:pasal-159",
+      "khi-1991:pasal-152",
+      "quran:2:236",
+      "quran:2:241"
+     ]
+    },
+    {
+     "qid": "cerai-019",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.4632423659320675,
+     "top10": [
+      "hadith:hadeethenc:58164",
+      "khi-1991:pasal-152",
+      "hadith:hadeethenc:6020",
+      "hadith:hadeethenc:58165",
+      "khi-1991:pasal-150",
+      "khi-1991:pasal-149",
+      "hadith:hadeethenc:58168",
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:58093",
+      "quran:2:240"
+     ]
+    },
+    {
+     "qid": "cerai-020",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9558295932317544,
+     "top10": [
+      "hadith:hadeethenc:58189",
+      "khi-1991:pasal-105",
+      "hadith:hadeethenc:58190",
+      "khi-1991:pasal-156",
+      "uu-1-1974:pasal-41",
+      "quran:4:130",
+      "uu-1-1974:pasal-50",
+      "uu-7-1989:pasal-78",
+      "uu-1-1974:pasal-47",
+      "khi-1991:pasal-107"
+     ]
+    },
+    {
+     "qid": "cerai-021",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.838847952689218,
+     "top10": [
+      "uu-1-1974:pasal-41",
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:58190",
+      "uu-7-1989:pasal-78",
+      "khi-1991:pasal-171",
+      "pp-9-1975:pasal-24",
+      "khi-1991:pasal-105",
+      "khi-1991:pasal-156",
+      "khi-1991:pasal-107",
+      "uu-1-1974:pasal-50"
+     ]
+    },
+    {
+     "qid": "cerai-022",
+     "recall@5": 0.8,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.975788054854922,
+     "top10": [
+      "khi-1991:pasal-149",
+      "khi-1991:pasal-105",
+      "khi-1991:pasal-156",
+      "uu-1-1974:pasal-41",
+      "quran:2:233",
+      "khi-1991:pasal-104",
+      "khi-1991:pasal-80",
+      "khi-1991:pasal-98",
+      "uu-1-1974:pasal-45",
+      "uu-1-1974:pasal-50"
+     ]
+    },
+    {
+     "qid": "cerai-023",
+     "recall@5": 0.5,
+     "mrr@10": 0.2,
+     "ndcg@10": 0.430624116386567,
+     "top10": [
+      "hadith:hadeethenc:58189",
+      "khi-1991:pasal-105",
+      "hadith:hadeethenc:58191",
+      "quran:4:12",
+      "khi-1991:pasal-156",
+      "hadith:hadeethenc:58093",
+      "uu-7-1989:pasal-78",
+      "uu-1-1974:pasal-41",
+      "hadith:hadeethenc:58190",
+      "khi-1991:pasal-106"
+     ]
+    },
+    {
+     "qid": "cerai-024",
+     "recall@5": 0.4,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.38356636737133565,
+     "top10": [
+      "hadith:hadeethenc:8286",
+      "khi-1991:pasal-167",
+      "hadith:hadeethenc:58149",
+      "khi-1991:pasal-169",
+      "hadith:hadeethenc:58078",
+      "quran:2:229",
+      "hadith:hadeethenc:6089",
+      "hadith:hadeethenc:5827",
+      "hadith:hadeethenc:58134",
+      "khi-1991:pasal-118"
+     ]
+    },
+    {
+     "qid": "cerai-025",
+     "recall@5": 0.5,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.3065735963827292,
+     "top10": [
+      "hadith:hadeethenc:58078",
+      "hadith:hadeethenc:6089",
+      "khi-1991:pasal-164",
+      "khi-1991:pasal-167",
+      "khi-1991:pasal-119",
+      "hadith:hadeethenc:58151",
+      "quran:2:229",
+      "hadith:hadeethenc:58076",
+      "hadith:hadeethenc:58149",
+      "khi-1991:pasal-120"
+     ]
+    },
+    {
+     "qid": "cerai-026",
+     "recall@5": 0.4,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.38356636737133565,
+     "top10": [
+      "quran:2:236",
+      "quran:2:229",
+      "hadith:hadeethenc:58133",
+      "quran:2:237",
+      "hadith:hadeethenc:58103",
+      "quran:5:108",
+      "khi-1991:pasal-33",
+      "khi-1991:pasal-38",
+      "hadith:hadeethenc:58165",
+      "khi-1991:pasal-35"
+     ]
+    },
+    {
+     "qid": "cerai-027",
+     "recall@5": 0.6,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8051628502199797,
+     "top10": [
+      "khi-1991:pasal-126",
+      "hadith:hadeethenc:6024",
+      "uu-1-1974:pasal-44",
+      "khi-1991:pasal-102",
+      "khi-1991:pasal-101",
+      "khi-1991:pasal-127",
+      "khi-1991:pasal-116",
+      "pp-9-1975:pasal-19",
+      "uu-1-1974:pasal-41",
+      "hadith:hadeethenc:6027"
+     ]
+    },
+    {
+     "qid": "cerai-028",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "khi-1991:pasal-96",
+      "khi-1991:pasal-86",
+      "khi-1991:pasal-136",
+      "pp-9-1975:pasal-24",
+      "quran:2:228",
+      "uu-7-1989:pasal-78",
+      "hadith:hadeethenc:58189",
+      "uu-7-1989:pasal-86",
+      "uu-1-1974:pasal-36",
+      "quran:4:12"
+     ]
+    },
+    {
+     "qid": "cerai-029",
+     "recall@5": 0.4,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5087403079104241,
+     "top10": [
+      "khi-1991:pasal-92",
+      "khi-1991:pasal-96",
+      "khi-1991:pasal-95",
+      "uu-7-1989:pasal-86",
+      "hadith:hadeethenc:58151",
+      "quran:2:231",
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-24",
+      "uu-1-1974:pasal-10",
+      "khi-1991:pasal-85"
+     ]
+    },
+    {
+     "qid": "cerai-030",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9349366583346496,
+     "top10": [
+      "khi-1991:pasal-136",
+      "uu-7-1989:pasal-77",
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-24",
+      "hadith:hadeethenc:58165",
+      "uu-7-1989:pasal-70",
+      "uu-7-1989:pasal-78",
+      "uu-1-1974:pasal-27",
+      "khi-1991:pasal-72",
+      "uu-1-1974:pasal-39"
+     ]
+    },
+    {
+     "qid": "cerai-031",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-1-1974:pasal-31",
+      "khi-1991:pasal-79",
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:58189",
+      "hadith:hadeethenc:58100",
+      "quran:4:23",
+      "hadith:hadeethenc:6025",
+      "khi-1991:pasal-102",
+      "hadith:hadeethenc:6046",
+      "hadith:hadeethenc:58174"
+     ]
+    },
+    {
+     "qid": "cerai-032",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.75369761125927,
+     "top10": [
+      "hadith:hadeethenc:58151",
+      "hadith:hadeethenc:6046",
+      "hadith:hadeethenc:58153",
+      "quran:2:226",
+      "khi-1991:pasal-127",
+      "hadith:hadeethenc:58067",
+      "quran:2:234",
+      "quran:4:21",
+      "hadith:hadeethenc:58155",
+      "khi-1991:pasal-72"
+     ]
+    },
+    {
+     "qid": "cerai-033",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8318724637288826,
+     "top10": [
+      "hadith:hadeethenc:6086",
+      "khi-1991:pasal-170",
+      "hadith:hadeethenc:58164",
+      "hadith:hadeethenc:58106",
+      "hadith:hadeethenc:6046",
+      "quran:65:1",
+      "hadith:hadeethenc:6091",
+      "khi-1991:pasal-154",
+      "hadith:hadeethenc:6030",
+      "hadith:hadeethenc:58161"
+     ]
+    },
+    {
+     "qid": "cerai-034",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-137",
+      "pp-9-1975:pasal-25",
+      "uu-7-1989:pasal-79",
+      "pp-9-1975:pasal-39",
+      "khi-1991:pasal-153",
+      "khi-1991:pasal-97",
+      "khi-1991:pasal-170",
+      "uu-7-1989:pasal-81",
+      "pp-9-1975:pasal-20",
+      "khi-1991:pasal-96"
+     ]
+    },
+    {
+     "qid": "cerai-035",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "uu-7-1989:pasal-70",
+      "pp-9-1975:pasal-39",
+      "khi-1991:pasal-153",
+      "uu-7-1989:pasal-84",
+      "pp-9-1975:pasal-36",
+      "uu-7-1989:pasal-68",
+      "uu-7-1989:pasal-71",
+      "khi-1991:pasal-102",
+      "perma-1-2016:pasal-34",
+      "khi-1991:pasal-135"
+     ]
+    },
+    {
+     "qid": "waris-001",
+     "recall@5": 0.25,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5205067333228022,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "quran:4:12",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-177",
+      "quran:4:176",
+      "khi-1991:pasal-176",
+      "khi-1991:pasal-178",
+      "quran:4:7",
+      "khi-1991:pasal-174"
+     ]
+    },
+    {
+     "qid": "waris-002",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8175295903539445,
+     "top10": [
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "quran:4:12",
+      "quran:4:176",
+      "khi-1991:pasal-182",
+      "quran:4:7",
+      "khi-1991:pasal-176",
+      "hadith:hadeethenc:5887",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-174"
+     ]
+    },
+    {
+     "qid": "waris-003",
+     "recall@5": 0.2,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.5543110021543998,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "quran:4:176",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-190",
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-176",
+      "khi-1991:pasal-182",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-174"
+     ]
+    },
+    {
+     "qid": "waris-004",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8772153153380493,
+     "top10": [
+      "quran:4:12",
+      "quran:4:11",
+      "quran:4:176",
+      "khi-1991:pasal-180",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-179",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-182",
+      "hadith:hadeethenc:2965",
+      "khi-1991:pasal-178"
+     ]
+    },
+    {
+     "qid": "waris-005",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.7903864795495061,
+     "top10": [
+      "quran:4:12",
+      "quran:4:11",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-80",
+      "khi-1991:pasal-35",
+      "khi-1991:pasal-180",
+      "hadith:hadeethenc:58093",
+      "khi-1991:pasal-179"
+     ]
+    },
+    {
+     "qid": "waris-006",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8385465274895063,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-178",
+      "hadith:hadeethenc:58189",
+      "khi-1991:pasal-156",
+      "quran:4:176",
+      "quran:4:23"
+     ]
+    },
+    {
+     "qid": "waris-007",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.39106560501896365,
+     "top10": [
+      "quran:4:12",
+      "khi-1991:pasal-181",
+      "quran:4:11",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-180",
+      "khi-1991:pasal-178",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-185",
+      "hadith:hadeethenc:10986"
+     ]
+    },
+    {
+     "qid": "waris-008",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6934264036172708,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-174",
+      "quran:4:176",
+      "khi-1991:pasal-182",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-178",
+      "khi-1991:pasal-177",
+      "quran:2:233"
+     ]
+    },
+    {
+     "qid": "waris-009",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-182",
+      "quran:4:176",
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "quran:4:12",
+      "quran:4:7",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-156",
+      "quran:4:23",
+      "khi-1991:pasal-21"
+     ]
+    },
+    {
+     "qid": "waris-010",
+     "recall@5": 0.5,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6052602440527057,
+     "top10": [
+      "quran:4:11",
+      "quran:4:176",
+      "quran:4:12",
+      "khi-1991:pasal-181",
+      "quran:4:7",
+      "khi-1991:pasal-182",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-174",
+      "quran:4:8",
+      "quran:4:23"
+     ]
+    },
+    {
+     "qid": "waris-011",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.16716045496620227,
+     "top10": [
+      "quran:4:176",
+      "quran:4:11",
+      "quran:4:12",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-190",
+      "khi-1991:pasal-175",
+      "uu-7-1989:pasal-49"
+     ]
+    },
+    {
+     "qid": "waris-012",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6131471927654584,
+     "top10": [
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-174",
+      "quran:4:176",
+      "hadith:hadeethenc:10986",
+      "quran:4:11",
+      "quran:4:7",
+      "quran:4:12",
+      "khi-1991:pasal-187",
+      "khi-1991:pasal-171",
+      "hadith:hadeethenc:8370"
+     ]
+    },
+    {
+     "qid": "waris-013",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-185",
+      "khi-1991:pasal-174",
+      "quran:4:11",
+      "hadith:hadeethenc:5887",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-177",
+      "khi-1991:pasal-182",
+      "quran:4:12",
+      "quran:4:7"
+     ]
+    },
+    {
+     "qid": "waris-014",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8175295903539445,
+     "top10": [
+      "khi-1991:pasal-173",
+      "khi-1991:pasal-197",
+      "hadith:hadeethenc:8370",
+      "khi-1991:pasal-174",
+      "quran:4:11",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-156",
+      "khi-1991:pasal-104",
+      "hadith:hadeethenc:58189"
+     ]
+    },
+    {
+     "qid": "waris-015",
+     "recall@5": 0.75,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.7100281367210132,
+     "top10": [
+      "quran:4:11",
+      "hadith:hadeethenc:64716",
+      "hadith:hadeethenc:64718",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-172",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-181",
+      "quran:4:176",
+      "khi-1991:pasal-171",
+      "quran:4:12"
+     ]
+    },
+    {
+     "qid": "waris-016",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-171",
+      "khi-1991:pasal-209",
+      "khi-1991:pasal-108",
+      "quran:4:11",
+      "khi-1991:pasal-156",
+      "quran:4:12",
+      "uu-1-1974:pasal-51",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-106",
+      "quran:4:176"
+     ]
+    },
+    {
+     "qid": "waris-017",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.46927872602275644,
+     "top10": [
+      "khi-1991:pasal-186",
+      "uu-1-1974:pasal-48",
+      "khi-1991:pasal-111",
+      "quran:4:11",
+      "quran:4:6",
+      "khi-1991:pasal-106",
+      "khi-1991:pasal-174",
+      "quran:4:12",
+      "uu-1-1974:pasal-50",
+      "quran:4:176"
+     ]
+    },
+    {
+     "qid": "waris-018",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.41618115554873086,
+     "top10": [
+      "hadith:hadeethenc:6035",
+      "hadith:hadeethenc:5831",
+      "khi-1991:pasal-195",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-201",
+      "quran:4:11",
+      "hadith:hadeethenc:8370",
+      "quran:4:12",
+      "hadith:hadeethenc:2965",
+      "khi-1991:pasal-177"
+     ]
+    },
+    {
+     "qid": "waris-019",
+     "recall@5": 0.5,
+     "mrr@10": 0.2,
+     "ndcg@10": 0.41443699955334395,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "uu-1-1974:pasal-49",
+      "hadith:hadeethenc:6160",
+      "hadith:hadeethenc:8370",
+      "quran:4:176",
+      "khi-1991:pasal-108",
+      "khi-1991:pasal-209",
+      "hadith:hadeethenc:5831",
+      "khi-1991:pasal-195"
+     ]
+    },
+    {
+     "qid": "waris-020",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6816587806335841,
+     "top10": [
+      "khi-1991:pasal-195",
+      "hadith:hadeethenc:5831",
+      "khi-1991:pasal-199",
+      "khi-1991:pasal-196",
+      "uu-1-1974:pasal-51",
+      "khi-1991:pasal-197",
+      "khi-1991:pasal-204",
+      "khi-1991:pasal-194",
+      "khi-1991:pasal-200",
+      "khi-1991:pasal-201"
+     ]
+    },
+    {
+     "qid": "waris-021",
+     "recall@5": 1.0,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.6309297535714575,
+     "top10": [
+      "khi-1991:pasal-197",
+      "khi-1991:pasal-199",
+      "quran:2:181",
+      "khi-1991:pasal-203",
+      "hadith:hadeethenc:5831",
+      "khi-1991:pasal-204",
+      "khi-1991:pasal-195",
+      "quran:2:182",
+      "khi-1991:pasal-201",
+      "quran:4:12"
+     ]
+    },
+    {
+     "qid": "waris-022",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.46927872602275644,
+     "top10": [
+      "khi-1991:pasal-211",
+      "quran:4:176",
+      "hadith:hadeethenc:5887",
+      "quran:4:11",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-187",
+      "khi-1991:pasal-177",
+      "quran:4:7",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181"
+     ]
+    },
+    {
+     "qid": "waris-023",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-212",
+      "hadith:hadeethenc:6035",
+      "khi-1991:pasal-211",
+      "quran:4:19",
+      "khi-1991:pasal-210",
+      "khi-1991:pasal-188",
+      "khi-1991:pasal-106",
+      "uu-1-1974:pasal-48",
+      "quran:4:7",
+      "uu-1-1974:pasal-49"
+     ]
+    },
+    {
+     "qid": "waris-024",
+     "recall@5": 0.0,
+     "mrr@10": 0.16666666666666666,
+     "ndcg@10": 0.41183384043543503,
+     "top10": [
+      "quran:4:11",
+      "quran:4:12",
+      "khi-1991:pasal-149",
+      "quran:4:176",
+      "quran:2:180",
+      "khi-1991:pasal-175",
+      "khi-1991:pasal-106",
+      "khi-1991:pasal-171",
+      "quran:2:233",
+      "quran:4:7"
+     ]
+    },
+    {
+     "qid": "waris-025",
+     "recall@5": 0.0,
+     "mrr@10": 0.1,
+     "ndcg@10": 0.17723928678404774,
+     "top10": [
+      "hadith:hadeethenc:10986",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-190",
+      "khi-1991:pasal-187",
+      "quran:4:12",
+      "khi-1991:pasal-188",
+      "khi-1991:pasal-175",
+      "khi-1991:pasal-193",
+      "uu-1-1974:pasal-35",
+      "khi-1991:pasal-171"
+     ]
+    },
+    {
+     "qid": "waris-026",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.5307212739772434,
+     "top10": [
+      "quran:4:12",
+      "khi-1991:pasal-94",
+      "khi-1991:pasal-190",
+      "khi-1991:pasal-82",
+      "khi-1991:pasal-87",
+      "hadith:hadeethenc:58125",
+      "uu-1-1974:pasal-35",
+      "khi-1991:pasal-86",
+      "khi-1991:pasal-93",
+      "khi-1991:pasal-85"
+     ]
+    },
+    {
+     "qid": "waris-027",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "khi-1991:pasal-189",
+      "hadith:hadeethenc:5887",
+      "quran:4:11",
+      "quran:4:176",
+      "quran:4:12",
+      "quran:4:8",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:10986",
+      "hadith:hadeethenc:58181",
+      "hadith:hadeethenc:5813"
+     ]
+    },
+    {
+     "qid": "waris-028",
+     "recall@5": 0.0,
+     "mrr@10": 0.0,
+     "ndcg@10": 0.0,
+     "top10": [
+      "quran:4:176",
+      "quran:4:11",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-174",
+      "quran:4:12",
+      "khi-1991:pasal-182",
+      "hadith:hadeethenc:5887",
+      "quran:4:7",
+      "hadith:hadeethenc:6090",
+      "quran:4:23"
+     ]
+    },
+    {
+     "qid": "waris-029",
+     "recall@5": 1.0,
+     "mrr@10": 0.2,
+     "ndcg@10": 0.38685280723454163,
+     "top10": [
+      "quran:4:11",
+      "quran:4:176",
+      "quran:4:12",
+      "quran:2:180",
+      "khi-1991:pasal-191",
+      "khi-1991:pasal-171",
+      "hadith:hadeethenc:10986",
+      "khi-1991:pasal-182",
+      "khi-1991:pasal-181",
+      "hadith:hadeethenc:5887"
+     ]
+    },
+    {
+     "qid": "waris-030",
+     "recall@5": 0.75,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.7397466333385988,
+     "top10": [
+      "quran:4:11",
+      "quran:4:176",
+      "khi-1991:pasal-181",
+      "khi-1991:pasal-182",
+      "quran:4:12",
+      "hadith:hadeethenc:5887",
+      "khi-1991:pasal-174",
+      "khi-1991:pasal-179",
+      "quran:4:7",
+      "hadith:hadeethenc:10986"
+     ]
+    },
+    {
+     "qid": "peradilan-001",
+     "recall@5": 1.0,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.5706417189553201,
+     "top10": [
+      "uu-7-1989:pasal-49",
+      "uu-3-2006:pasal-50",
+      "khi-1991:pasal-188",
+      "uu-3-2006:pasal-49",
+      "uu-50-2009:pasal-1",
+      "uu-7-1989:pasal-1",
+      "khi-1991:pasal-191",
+      "perma-1-2016:pasal-1",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-51"
+     ]
+    },
+    {
+     "qid": "peradilan-002",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9674679834891693,
+     "top10": [
+      "uu-7-1989:pasal-73",
+      "khi-1991:pasal-132",
+      "khi-1991:pasal-148",
+      "prosedur-cerai-gugat:langkah-2",
+      "prosedur-cerai-gugat:langkah-1",
+      "pp-9-1975:pasal-20",
+      "uu-7-1989:pasal-66",
+      "prosedur-cerai-talak:langkah-3",
+      "khi-1991:pasal-136",
+      "khi-1991:pasal-51"
+     ]
+    },
+    {
+     "qid": "peradilan-003",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6257049680303419,
+     "top10": [
+      "uu-7-1989:pasal-66",
+      "pp-9-1975:pasal-20",
+      "pp-9-1975:pasal-14",
+      "uu-7-1989:pasal-73",
+      "khi-1991:pasal-132",
+      "uu-1-1974:pasal-25",
+      "prosedur-cerai-talak:langkah-3",
+      "uu-7-1989:pasal-67",
+      "uu-7-1989:pasal-77",
+      "prosedur-cerai-gugat:langkah-2"
+     ]
+    },
+    {
+     "qid": "peradilan-004",
+     "recall@5": 0.5,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.7246262544989281,
+     "top10": [
+      "uu-7-1989:pasal-82",
+      "pp-9-1975:pasal-20",
+      "uu-7-1989:pasal-73",
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-132",
+      "prosedur-cerai-gugat:langkah-2",
+      "uu-7-1989:pasal-84",
+      "khi-1991:pasal-148",
+      "prosedur-cerai-talak:langkah-3",
+      "uu-7-1989:pasal-68"
+     ]
+    },
+    {
+     "qid": "peradilan-005",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.617319681505689,
+     "top10": [
+      "pp-9-1975:pasal-20",
+      "pp-9-1975:pasal-26",
+      "uu-7-1989:pasal-70",
+      "uu-7-1989:pasal-66",
+      "khi-1991:pasal-131",
+      "uu-7-1989:pasal-73",
+      "khi-1991:pasal-132",
+      "khi-1991:pasal-138",
+      "uu-7-1989:pasal-84",
+      "uu-7-1989:pasal-67"
+     ]
+    },
+    {
+     "qid": "peradilan-006",
+     "recall@5": 0.2,
+     "mrr@10": 0.25,
+     "ndcg@10": 0.37387278490946446,
+     "top10": [
+      "perma-1-2016:pasal-32",
+      "uu-7-1989:pasal-70",
+      "perma-1-2016:pasal-7",
+      "uu-7-1989:pasal-82",
+      "perma-1-2016:pasal-6",
+      "perma-1-2016:pasal-3",
+      "perma-1-2016:pasal-9",
+      "perma-1-2016:pasal-17:ayat-1",
+      "perma-1-2016:pasal-23",
+      "khi-1991:pasal-142"
+     ]
+    },
+    {
+     "qid": "peradilan-007",
+     "recall@5": 0.3333333333333333,
+     "mrr@10": 0.3333333333333333,
+     "ndcg@10": 0.558226059985166,
+     "top10": [
+      "perma-1-2016:pasal-3",
+      "perma-1-2016:pasal-2",
+      "perma-1-2016:pasal-6",
+      "perma-1-2016:pasal-1",
+      "perma-1-2016:pasal-11",
+      "perma-1-2016:pasal-24",
+      "perma-1-2016:pasal-5",
+      "perma-1-2016:pasal-35",
+      "perma-1-2016:pasal-32",
+      "perma-1-2016:pasal-31"
+     ]
+    },
+    {
+     "qid": "peradilan-008",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "perma-1-2016:pasal-7",
+      "perma-1-2016:pasal-22",
+      "pp-9-1975:pasal-27",
+      "khi-1991:pasal-138",
+      "perma-1-2016:pasal-17:ayat-5",
+      "perma-1-2016:pasal-4:ayat-2",
+      "perma-1-2016:pasal-23",
+      "perma-1-2016:pasal-35",
+      "perma-1-2016:pasal-32",
+      "perma-1-2016:pasal-1"
+     ]
+    },
+    {
+     "qid": "peradilan-009",
+     "recall@5": 0.75,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.8318724637288826,
+     "top10": [
+      "prosedur-cerai-gugat:langkah-5",
+      "prosedur-cerai-talak:langkah-6",
+      "uu-50-2009:pasal-60b",
+      "perma-1-2016:pasal-23",
+      "prosedur-waris:bagian-1",
+      "uu-50-2009:pasal-91a",
+      "uu-3-2006:pasal-90",
+      "perma-1-2016:pasal-9",
+      "quran:4:25",
+      "perma-1-2016:pasal-22"
+     ]
+    },
+    {
+     "qid": "peradilan-010",
+     "recall@5": 0.25,
+     "mrr@10": 0.5,
+     "ndcg@10": 0.3638184934971571,
+     "top10": [
+      "perma-1-2016:pasal-23",
+      "prosedur-cerai-gugat:langkah-5",
+      "perma-1-2016:pasal-22",
+      "prosedur-cerai-talak:langkah-6",
+      "uu-7-1989:pasal-78",
+      "perma-1-2016:pasal-9",
+      "khi-1991:pasal-136",
+      "pp-9-1975:pasal-24",
+      "uu-7-1989:pasal-89",
+      "prosedur-cerai-gugat:langkah-1"
+     ]
+    },
+    {
+     "qid": "peradilan-011",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9197207891481876,
+     "top10": [
+      "prosedur-waris:bagian-1",
+      "uu-7-1989:pasal-49",
+      "prosedur-waris:bagian-2",
+      "khi-1991:pasal-188",
+      "khi-1991:pasal-171",
+      "perma-1-2016:pasal-1",
+      "uu-3-2006:pasal-49",
+      "khi-1991:pasal-174",
+      "hadith:hadeethenc:5887",
+      "prosedur-cerai-talak:langkah-1"
+     ]
+    },
+    {
+     "qid": "peradilan-012",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.9066276098484507,
+     "top10": [
+      "uu-7-1989:pasal-84",
+      "khi-1991:pasal-147",
+      "khi-1991:pasal-7",
+      "pp-9-1975:pasal-36",
+      "hadith:hadeethenc:58151",
+      "khi-1991:pasal-169",
+      "uu-7-1989:pasal-86",
+      "pp-9-1975:pasal-34",
+      "khi-1991:pasal-8",
+      "uu-7-1989:pasal-68"
+     ]
+    },
+    {
+     "qid": "peradilan-013",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "uu-7-1989:pasal-70",
+      "khi-1991:pasal-131",
+      "uu-7-1989:pasal-66",
+      "uu-7-1989:pasal-71",
+      "khi-1991:pasal-117",
+      "khi-1991:pasal-129",
+      "khi-1991:pasal-169",
+      "uu-7-1989:pasal-65",
+      "uu-7-1989:pasal-82",
+      "khi-1991:pasal-167"
+     ]
+    },
+    {
+     "qid": "peradilan-014",
+     "recall@5": 0.6666666666666666,
+     "mrr@10": 1.0,
+     "ndcg@10": 0.6508205185601091,
+     "top10": [
+      "uu-7-1989:pasal-63",
+      "khi-1991:pasal-102",
+      "uu-7-1989:pasal-3",
+      "khi-1991:pasal-130",
+      "uu-7-1989:pasal-51",
+      "uu-7-1989:pasal-6",
+      "uu-3-2006:pasal-4",
+      "uu-50-2009:pasal-1",
+      "hadith:hadeethenc:58191",
+      "khi-1991:pasal-156"
+     ]
+    },
+    {
+     "qid": "peradilan-015",
+     "recall@5": 1.0,
+     "mrr@10": 1.0,
+     "ndcg@10": 1.0,
+     "top10": [
+      "uu-7-1989:pasal-86",
+      "prosedur-cerai-gugat:langkah-4",
+      "uu-7-1989:pasal-66",
+      "prosedur-cerai-talak:langkah-5",
+      "perma-1-2016:pasal-31",
+      "pp-9-1975:pasal-24",
+      "uu-7-1989:pasal-73",
+      "uu-7-1989:pasal-78",
+      "khi-1991:pasal-136",
+      "pp-9-1975:pasal-20"
+     ]
+    }
+   ]
+  }
+ },
+ "rerank_top": [
+  {
+   "qid": "cerai-001",
+   "in_domain": true,
+   "score": 0.31089983701436275
+  },
+  {
+   "qid": "cerai-002",
+   "in_domain": true,
+   "score": 0.08453518154289769
+  },
+  {
+   "qid": "cerai-003",
+   "in_domain": true,
+   "score": 0.8711840102146238
+  },
+  {
+   "qid": "cerai-004",
+   "in_domain": true,
+   "score": 0.8664705951405425
+  },
+  {
+   "qid": "cerai-005",
+   "in_domain": true,
+   "score": 0.38713644359885285
+  },
+  {
+   "qid": "cerai-006",
+   "in_domain": true,
+   "score": 0.41509751127698064
+  },
+  {
+   "qid": "cerai-007",
+   "in_domain": true,
+   "score": 0.9533806456074108
+  },
+  {
+   "qid": "cerai-008",
+   "in_domain": true,
+   "score": 0.2739327632759637
+  },
+  {
+   "qid": "cerai-009",
+   "in_domain": true,
+   "score": 0.7649189427429005
+  },
+  {
+   "qid": "cerai-010",
+   "in_domain": true,
+   "score": 0.06036230296591836
+  },
+  {
+   "qid": "cerai-011",
+   "in_domain": true,
+   "score": 0.9560852339953589
+  },
+  {
+   "qid": "cerai-012",
+   "in_domain": true,
+   "score": 0.9492882541001029
+  },
+  {
+   "qid": "cerai-013",
+   "in_domain": true,
+   "score": 0.8619221417008681
+  },
+  {
+   "qid": "cerai-014",
+   "in_domain": true,
+   "score": 0.9201890652413272
+  },
+  {
+   "qid": "cerai-015",
+   "in_domain": true,
+   "score": 0.26751284834334654
+  },
+  {
+   "qid": "cerai-016",
+   "in_domain": true,
+   "score": 0.9662881060313865
+  },
+  {
+   "qid": "cerai-017",
+   "in_domain": true,
+   "score": 0.24779630867857574
+  },
+  {
+   "qid": "cerai-018",
+   "in_domain": true,
+   "score": 0.22445980608654606
+  },
+  {
+   "qid": "cerai-019",
+   "in_domain": true,
+   "score": 0.4751283411250331
+  },
+  {
+   "qid": "cerai-020",
+   "in_domain": true,
+   "score": 0.835711036797747
+  },
+  {
+   "qid": "cerai-021",
+   "in_domain": true,
+   "score": 0.3909362051219448
+  },
+  {
+   "qid": "cerai-022",
+   "in_domain": true,
+   "score": 0.4568364840879485
+  },
+  {
+   "qid": "cerai-023",
+   "in_domain": true,
+   "score": 0.08362976025318644
+  },
+  {
+   "qid": "cerai-024",
+   "in_domain": true,
+   "score": 0.7101697060144514
+  },
+  {
+   "qid": "cerai-025",
+   "in_domain": true,
+   "score": 0.6000673651970455
+  },
+  {
+   "qid": "cerai-026",
+   "in_domain": true,
+   "score": 0.316605946285983
+  },
+  {
+   "qid": "cerai-027",
+   "in_domain": true,
+   "score": 0.7164729231489139
+  },
+  {
+   "qid": "cerai-028",
+   "in_domain": true,
+   "score": 0.4155734495903865
+  },
+  {
+   "qid": "cerai-029",
+   "in_domain": true,
+   "score": 0.18449603988072566
+  },
+  {
+   "qid": "cerai-030",
+   "in_domain": true,
+   "score": 0.4827544132516856
+  },
+  {
+   "qid": "cerai-031",
+   "in_domain": true,
+   "score": 0.008772123941647555
+  },
+  {
+   "qid": "cerai-032",
+   "in_domain": true,
+   "score": 0.989218108027206
+  },
+  {
+   "qid": "cerai-033",
+   "in_domain": true,
+   "score": 0.9812127348567421
+  },
+  {
+   "qid": "cerai-034",
+   "in_domain": true,
+   "score": 0.6808338031885122
+  },
+  {
+   "qid": "cerai-035",
+   "in_domain": true,
+   "score": 0.08235882474931783
+  },
+  {
+   "qid": "waris-001",
+   "in_domain": true,
+   "score": 0.8850225743703395
+  },
+  {
+   "qid": "waris-002",
+   "in_domain": true,
+   "score": 0.9863485333470748
+  },
+  {
+   "qid": "waris-003",
+   "in_domain": true,
+   "score": 0.9857768120502803
+  },
+  {
+   "qid": "waris-004",
+   "in_domain": true,
+   "score": 0.9893460769293148
+  },
+  {
+   "qid": "waris-005",
+   "in_domain": true,
+   "score": 0.9414192036457704
+  },
+  {
+   "qid": "waris-006",
+   "in_domain": true,
+   "score": 0.6616796743080403
+  },
+  {
+   "qid": "waris-007",
+   "in_domain": true,
+   "score": 0.7765717707385015
+  },
+  {
+   "qid": "waris-008",
+   "in_domain": true,
+   "score": 0.8945184688010144
+  },
+  {
+   "qid": "waris-009",
+   "in_domain": true,
+   "score": 0.6936438471017152
+  },
+  {
+   "qid": "waris-010",
+   "in_domain": true,
+   "score": 0.7089972690677041
+  },
+  {
+   "qid": "waris-011",
+   "in_domain": true,
+   "score": 0.41086022517334886
+  },
+  {
+   "qid": "waris-012",
+   "in_domain": true,
+   "score": 0.9910919005489549
+  },
+  {
+   "qid": "waris-013",
+   "in_domain": true,
+   "score": 0.14545266396088255
+  },
+  {
+   "qid": "waris-014",
+   "in_domain": true,
+   "score": 0.5316071301145849
+  },
+  {
+   "qid": "waris-015",
+   "in_domain": true,
+   "score": 0.08652632921911885
+  },
+  {
+   "qid": "waris-016",
+   "in_domain": true,
+   "score": 0.7474506166022904
+  },
+  {
+   "qid": "waris-017",
+   "in_domain": true,
+   "score": 0.0748365065641908
+  },
+  {
+   "qid": "waris-018",
+   "in_domain": true,
+   "score": 0.13461480095702755
+  },
+  {
+   "qid": "waris-019",
+   "in_domain": true,
+   "score": 0.8283666688671064
+  },
+  {
+   "qid": "waris-020",
+   "in_domain": true,
+   "score": 0.41058173715444196
+  },
+  {
+   "qid": "waris-021",
+   "in_domain": true,
+   "score": 0.7032063500946605
+  },
+  {
+   "qid": "waris-022",
+   "in_domain": true,
+   "score": 0.05296452520052946
+  },
+  {
+   "qid": "waris-023",
+   "in_domain": true,
+   "score": 0.32196137451052265
+  },
+  {
+   "qid": "waris-024",
+   "in_domain": true,
+   "score": 0.7514649679972969
+  },
+  {
+   "qid": "waris-025",
+   "in_domain": true,
+   "score": 0.34083819837901264
+  },
+  {
+   "qid": "waris-026",
+   "in_domain": true,
+   "score": 0.7660066767016311
+  },
+  {
+   "qid": "waris-027",
+   "in_domain": true,
+   "score": 0.11772548237240678
+  },
+  {
+   "qid": "waris-028",
+   "in_domain": true,
+   "score": 0.8120115698676308
+  },
+  {
+   "qid": "waris-029",
+   "in_domain": true,
+   "score": 0.0752582463713104
+  },
+  {
+   "qid": "waris-030",
+   "in_domain": true,
+   "score": 0.6158538622232702
+  },
+  {
+   "qid": "peradilan-001",
+   "in_domain": true,
+   "score": 0.37499309652591495
+  },
+  {
+   "qid": "peradilan-002",
+   "in_domain": true,
+   "score": 0.8175180368269389
+  },
+  {
+   "qid": "peradilan-003",
+   "in_domain": true,
+   "score": 0.9586758018497568
+  },
+  {
+   "qid": "peradilan-004",
+   "in_domain": true,
+   "score": 0.5389339121812028
+  },
+  {
+   "qid": "peradilan-005",
+   "in_domain": true,
+   "score": 0.7904073704284076
+  },
+  {
+   "qid": "peradilan-006",
+   "in_domain": true,
+   "score": 0.7297847707933708
+  },
+  {
+   "qid": "peradilan-007",
+   "in_domain": true,
+   "score": 0.2939461894290556
+  },
+  {
+   "qid": "peradilan-008",
+   "in_domain": true,
+   "score": 0.7743617166910195
+  },
+  {
+   "qid": "peradilan-009",
+   "in_domain": true,
+   "score": 0.7988112393803812
+  },
+  {
+   "qid": "peradilan-010",
+   "in_domain": true,
+   "score": 0.6292121038501169
+  },
+  {
+   "qid": "peradilan-011",
+   "in_domain": true,
+   "score": 0.5363658073927068
+  },
+  {
+   "qid": "peradilan-012",
+   "in_domain": true,
+   "score": 0.5957431079830922
+  },
+  {
+   "qid": "peradilan-013",
+   "in_domain": true,
+   "score": 0.9743373182996969
+  },
+  {
+   "qid": "peradilan-014",
+   "in_domain": true,
+   "score": 0.4008211890951001
+  },
+  {
+   "qid": "peradilan-015",
+   "in_domain": true,
+   "score": 0.8939597165158961
+  },
+  {
+   "qid": "luar-001",
+   "in_domain": false,
+   "score": 0.003244874557110171
+  },
+  {
+   "qid": "luar-002",
+   "in_domain": false,
+   "score": 0.13043594381757667
+  },
+  {
+   "qid": "luar-003",
+   "in_domain": false,
+   "score": 0.0021362262547717234
+  },
+  {
+   "qid": "luar-004",
+   "in_domain": false,
+   "score": 0.0003041188368825051
+  },
+  {
+   "qid": "luar-005",
+   "in_domain": false,
+   "score": 0.0006323260975959138
+  },
+  {
+   "qid": "luar-006",
+   "in_domain": false,
+   "score": 0.0007206196091168522
+  },
+  {
+   "qid": "luar-007",
+   "in_domain": false,
+   "score": 0.00013246318427188603
+  },
+  {
+   "qid": "luar-008",
+   "in_domain": false,
+   "score": 0.0015223795341491263
+  },
+  {
+   "qid": "luar-009",
+   "in_domain": false,
+   "score": 0.0005071476026813765
+  },
+  {
+   "qid": "luar-010",
+   "in_domain": false,
+   "score": 0.0062128607447057655
+  },
+  {
+   "qid": "luar-011",
+   "in_domain": false,
+   "score": 0.006795465082910766
+  },
+  {
+   "qid": "luar-012",
+   "in_domain": false,
+   "score": 0.00043442731822488484
+  },
+  {
+   "qid": "luar-013",
+   "in_domain": false,
+   "score": 0.0003673287434893096
+  },
+  {
+   "qid": "luar-014",
+   "in_domain": false,
+   "score": 0.0003137396634070087
+  },
+  {
+   "qid": "luar-015",
+   "in_domain": false,
+   "score": 0.01235792925789605
+  },
+  {
+   "qid": "luar-016",
+   "in_domain": false,
+   "score": 0.013591505917962344
+  },
+  {
+   "qid": "luar-017",
+   "in_domain": false,
+   "score": 0.002417318922068471
+  },
+  {
+   "qid": "luar-018",
+   "in_domain": false,
+   "score": 0.000682319809257107
+  },
+  {
+   "qid": "luar-019",
+   "in_domain": false,
+   "score": 0.0013738620910482967
+  },
+  {
+   "qid": "luar-020",
+   "in_domain": false,
+   "score": 0.0039412246106563815
+  }
+ ]
+}
